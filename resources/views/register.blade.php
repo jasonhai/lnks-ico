@@ -8,11 +8,11 @@
         <div class="mh-fullscreen center-vh moving_background">
             <div class=" card card-shadowed login-shadow p-40 w-600">
                 <center>
-                    <a href="{{ url('/') }}""><img src="template/images/logo_login.png" class="w-100 mb-10" style="margin-left:auto; margin-right:auto; margin-top:-20px;"></a>
+                    <a href="{{ url('/') }}""><img src="template/images/lnks/logo.png" class="w-100 mb-10" style="margin-left:auto; margin-right:auto; margin-top:-20px;"></a>
                 </center>
                 <h5 class="text-uppercase text-center">SIGN UP FOR THE GIFCOIN TOKEN SALE</h5>
                 <h6 class="text-uppercase text-center mb-10" style="font-size: 12px; color: #999;">ALREADY HAVE AN ACCOUNT? - <a href="{{ url('/login') }}"" style="color: #0275d8; text-decoration: underline;">SIGN IN</a>
-                <h5 class="text-uppercase text-center mb-10" style="color:#3152ed; font-weight: bold;">Join now and get 15% Bonus!</h5>
+                <h5 class="text-uppercase text-center mb-10" style="color:#3152ed; font-weight: bold;"></h5>
                 <form method="post" class="m-0" action="{{ url('/submit-register') }}">
                     {{ csrf_field() }}
                     <!-- <div class="form-group">

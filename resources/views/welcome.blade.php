@@ -185,7 +185,7 @@
                         </div>
                         <div class="col-5 whitepaper-btn m-0">
                             <a class="change-btn-res btn btn-lg btn-round btn-white" href="/GifCoin-WhitePaper.pdf">Read the Whitepaper</a>
-                            <a href="/GifCoin-WhitePaper.pdf">
+                            <a href="{{ url('/Whitepaper.docx') }}">
                                 <div class="div_whitepepar">
                                     <img src="template/images/whit-ppr.png">
                                 </div>
@@ -629,7 +629,7 @@
                     </div>
                     <div class="col-4 p-15 text-center col-md-4">
                         <i class="fa fs-40  mr-10 fa-envelope-o" aria-hidden="true"></i>
-                        <a href="mailto:support@gifcoin.io " target="_top">support@gifcoin.io</a>
+                        <a href="support@cryptolink.network" target="_top">support@cryptolink.network</a>
                     </div>
                     <div class="col-4 p-15 text-center col-md-4">
                         <i class="fa fs-40 mr-10 fa-telegram" aria-hidden="true"></i>
@@ -638,20 +638,20 @@
                 </div>
 
                 <div class="nav m-0 row gap-y pt-10" style="border-top:1px solid #5d5d5d;margin:  0;">
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/') }}">Whitepaper</a>
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/') }}">Privacy Policy</a>
+                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/Whitepaper.docx') }}">Whitepaper</a>
+                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/DistributionAgreement.docx') }}">Privacy Policy</a>
                     <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/') }}">Terms Of Use</a>
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/') }}">Contact Us</a>
+                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="mailto:support@cryptolink.network" target="_blank">Contact Us</a>
 
                 </div>
              </div>
             <ul class="icons">
-                <li><a href="{{ url('/') }}" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="{{ url('/') }}" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="https://twitter.com/linkplatform" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="https://www.facebook.com/silverlinkplatform/" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
                 <li><a href="{{ url('/') }}" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
                 <li><a href="{{ url('/') }}" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-                <li><a href="{{ url('/') }}" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-                <li><a href="{{ url('/') }}" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+                <li><a href="https://github.com/ethlink/" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+                <li><a href="mailto:support@cryptolink.network" target="_blank" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
             </ul>
             <!-- <ul class="copyright">
                 <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>

@@ -900,3 +900,14 @@ footer .nav-link {
     -webkit-transform: translate(0, 0px);
     transform: translate(0, 0);
 }
+
+.login::before {
+    content: "\f090";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 14px!important;
+    margin-right: 5px;
+    top: 1px;
+    position: relative;
+    font-size: inherit;
+    text-rendering: auto;
+}
