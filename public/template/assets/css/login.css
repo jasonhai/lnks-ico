@@ -1,0 +1,319 @@
+.moving_background {
+    background-image: url("../../images/login_bg.jpg");
+    background-position: 0px 0px;
+    -webkit-animation: animatedBackground 40s linear infinite;
+}
+
+.mh-fullscreen {
+    min-height: 100vh;
+}
+
+.center-vh {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+}
+
+.card-shadowed {
+    -webkit-box-shadow: 0 1px 25px rgba(0,0,0,0.05);
+    box-shadow: 0 1px 25px rgba(0,0,0,0.05);
+}
+
+.card {
+    border: 0;
+    border-radius: 0;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.signup-page#page-wrapper,
+.login-page#page-wrapper {
+	padding: 0 !important;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-control {
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #464a4c;
+    background-color: #fff;
+    background-image: none;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+}
+
+.form-control {
+    border-color: #e8e8e8;
+    border-radius: 2px;
+    color: #b5b9bf;
+    padding: 5px 12px;
+    font-size: 14px;
+    line-height: inherit;
+    -webkit-transition: 0.2s linear;
+    transition: 0.2s linear;
+}
+
+.flexbox {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.custom-control{
+    color:#535353;
+    font-weight:300;
+    letter-spacing:0;
+    margin-bottom:0;
+    outline:none;
+    display:-webkit-inline-box;
+    display:inline-flex;
+    -webkit-box-align:center;
+    align-items:center;
+    padding-left:0
+}
+
+.custom-control-description small {
+	font-size: 80%;
+}
+
+.text-muted {
+    color: #b5b9bf !important;
+}
+
+.custom-control-input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+.custom-controls-stacked::after{
+    content:"";
+    display:block;
+    clear:both
+}
+.custom-controls-stacked .custom-control{
+    display:-webkit-inline-box;
+    display:inline-flex;
+    margin-bottom:6px
+}
+.custom-control-input:checked ~ .custom-control-indicator,.custom-control-input:active:not(:disabled) ~ .custom-control-indicator{
+    background-image:none;
+    background-color:#fcfdfe;
+}
+.custom-control-input:focus ~ .custom-control-indicator{
+    -webkit-box-shadow:none;
+    box-shadow:none
+}
+.custom-control-input:checked ~ .custom-control-indicator::before,.custom-control-input:checked ~ .custom-control-indicator::after{
+    -webkit-transform:scale(1);
+    transform:scale(1)
+}
+.custom-control-input:disabled ~ .custom-control-indicator{
+    opacity:.5
+}
+.custom-control-input:checked ~ .custom-control-description.strike-on-check{
+    text-decoration:line-through;
+    opacity:.6
+}
+.custom-control-indicator{
+    width:18px;
+    height:18px;
+    line-height:18px;
+    color:#fff;
+    background-color:#fcfdfe;
+    border:1px solid #ebebeb;
+    position:static;
+    flex-shrink:0;
+    -webkit-box-flex:0;
+    flex-grow:0;
+    text-align:center
+}
+.custom-control-indicator::after{
+    content:'';
+    display:inline-block;
+    -webkit-transform:scale(0);
+    transform:scale(0);
+    -webkit-transition:-webkit-transform .3s;
+    transition:-webkit-transform .3s;
+    transition:transform .3s;
+    transition:transform .3s, -webkit-transform .3s
+}
+.custom-control-description{
+    padding-left:8px;
+    -webkit-box-flex:1;
+    flex-grow:1
+    color: #535353;
+    font-size: 13px;
+    line-height: 1;
+}
+.custom-radio .custom-control-indicator::after{
+    border-radius:50%;
+    vertical-align:top;
+    margin-top:4px;
+    display:inline-block;
+    width:8px;
+    height:8px;
+    background-color:#0facf3
+}
+.custom-checkbox .custom-control-indicator{
+    border-radius:0
+}
+.custom-checkbox .custom-control-indicator::after{
+    content:"\e64c";
+    font-family:themify;
+    font-size:11px;
+    font-weight:bold;
+    top:0;
+    left:0;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    color:#0facf3;
+}
+.custom-checkbox .custom-control-input:checked ~ .custom-control-indicator::before,.custom-checkbox .custom-control-input:checked ~ .custom-control-indicator::after{
+    border-radius:0
+}
+.custom-control.no-border .custom-control-indicator{
+    border-color:transparent;
+    background-color:transparent
+}
+.custom-control.no-border .custom-control-indicator::before{
+    background-color:transparent
+}
+.custom-control.no-border.custom-checkbox .custom-control-indicator::after{
+    font-size:14px
+}
+.custom-control.no-border.custom-radio .custom-control-indicator::after{
+    margin-top:3px;
+    display:inline-block;
+    width:9px;
+    height:9px
+}
+.custom-control-sm .custom-control-indicator{
+    width:14px;
+    height:14px;
+    line-height:12px
+}
+.custom-control-sm.custom-radio .custom-control-indicator::after{
+    margin-top:3px;
+    width:6px;
+    height:6px
+}
+.custom-control-sm.custom-radio.no-border .custom-control-indicator::after{
+    margin-top:2px;
+    width:7px;
+    height:7px
+}
+.custom-control-sm.custom-checkbox .custom-control-indicator::after{
+    font-size:9px
+}
+.custom-control-sm.custom-checkbox.no-border .custom-control-indicator::after{
+    font-size:11px
+}
+.custom-control-lg .custom-control-indicator{
+    width:22px;
+    height:22px;
+    line-height:22px
+}
+.custom-control-lg.custom-radio .custom-control-indicator::after{
+    margin-top:5px;
+    width:10px;
+    height:10px
+}
+.custom-control-lg.custom-radio.no-border .custom-control-indicator::after{
+    margin-top:5px;
+    width:10px;
+    height:10px
+}
+.custom-control-lg.custom-checkbox .custom-control-indicator::after{
+    font-size:14px
+}
+.custom-control-lg.custom-checkbox.no-border .custom-control-indicator::after{
+    font-size:16px
+}
+
+.custom-back-login:hover i {
+    padding-right: 10px;
+}
+
+@-webkit-keyframes animatedBackground {
+  0% {
+    background-position: 0px 0px;
+  }
+  100% {
+    background-position: 1024px 1024px;
+  }
+}
+
+.signup-page select option {
+	font-weight: 400;
+}
+
+.signup-page input::-webkit-input-placeholder {
+	color: #000;
+	opacity: 1.0;
+	font-weight: bold;
+}
+
+.signup-page input:-moz-placeholder {
+	color: #000;
+	opacity: 1.0;
+		font-weight: bold;
+}
+
+.signup-page input::-moz-placeholder {
+	color: #000;
+	opacity: 1.0;
+		font-weight: bold;
+}
+
+.signup-page input:-ms-input-placeholder {
+	color: #000;
+	opacity: 1.0;
+		font-weight: bold;
+}
+
+.signup-page input {
+    font-weight: 600;
+}
+
+.form-control option {
+    font-weight: 300;
+    color: #535353;
+}
+
+select.form-control {
+    color: #000;
+}
+
