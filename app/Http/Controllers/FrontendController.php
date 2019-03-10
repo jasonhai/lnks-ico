@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Validator;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Storage;
+use App\Subscriber;
 
 class FrontendController extends Controller
 {
@@ -28,65 +29,22 @@ class FrontendController extends Controller
             ]);
 
             if ($validator->passes()) {
-                $response = response()->json([
-                    'status' => true,
-                    'data' => [
-                        'message' => 'OK'
-                    ],
-                ]);
-                // $coupon = $this->repository->findByCouponCode($data['coupon_code']);
-                // if (!empty($coupon)) {
-                //     $couponOrder = new CouponOrder();
-                //     $couponOrder->fill($data);
-                //     $couponOrder['coupon_id']   = $coupon->id;
-                //     $couponOrder->save();
-
-                //     if ($data['customer_id']) {
-                //         foreach ($coupon->users as $couponUser) {
-                //             if ($couponUser['customer_id'] == $data['customer_id']) {
-                //                 $couponUser->updateNumberOfUseage();
-                //                 break;
-                //             }
-                //         }
-                //     }
-                //     // Update total usage coupon
-                //     $coupon->max_number_of_coupon -= $coupon->max_number_of_coupon > 0 ? 1 : 0;
-                //     $coupon->update(['max_number_of_coupon']);
-
-                //     $response = response()->json([
-                //         'status' => true,
-                //         'data' => [
-                //             'message' => 'OK'
-                //         ],
-                //     ]);
-                // } else {
-                //     // $response = response()->json([
-                //     //     'status' => false,
-                //     //     'error' => [
-                //     //         'code' => "CP-12",
-                //     //         'message' => "Coupon not found."
-                //     //     ],
-                //     // ]);
-                // }
+                $obj = new Subscriber();
+                if ($obj->findByEmail($data['email'])) {
+                    toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
+                } else {
+                    $obj->fill($data);
+                    $obj->save();
+                    toastr()->success('Data has been saved successfully!', '', ['timeOut' => 3000]);
+                }
             } else {
-                // $response = response()->json([
-                //     'status' => false,
-                //     'error' => [
-                //         'code' => "CP-15",
-                //         'message' => "Coupon failed validation."
-                //     ],
-                // ]);
+                toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
             }
-            // return $response;
+            return back();
+
         } catch (\Exception $e) {
             report($e);
-            // return response()->json([
-            //     'status'    => false,
-            //     'error'     => [
-            //         'code'      => "CP-01",
-            //         'message'   => $e->getMessage()
-            //     ],
-            // ]);
+            toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
         }
     }
 
@@ -101,16 +59,15 @@ class FrontendController extends Controller
             ]);
 
             if ($validator->passes()) {
-                $response = response()->json([
-                    'status' => true,
-                    'data' => [
-                        'message' => 'OK'
-                    ],
-                ]);
+                toastr()->success('Logged in successfully!', '', ['timeOut' => 3000]);
             } else {
+                toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
             }
+            return back();
+
         } catch (\Exception $e) {
             report($e);
+            toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
         }
     }
 
@@ -125,16 +82,15 @@ class FrontendController extends Controller
             ]);
 
             if ($validator->passes()) {
-                $response = response()->json([
-                    'status' => true,
-                    'data' => [
-                        'message' => 'OK'
-                    ],
-                ]);
+                toastr()->success('Logged in successfully!', '', ['timeOut' => 3000]);
             } else {
+                toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
             }
+            return back();
+
         } catch (\Exception $e) {
             report($e);
+            toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
         }
     }
 }

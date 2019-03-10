@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="template/assets/css/main.css" />
         <noscript><link rel="stylesheet" href="template/assets/css/noscript.css" /></noscript>
+        @toastr_css
     </head>
     <body class="landing">
         <div id="page-wrapper">
@@ -29,6 +30,8 @@
         <script src="template/assets/js/swiper.min.js"></script>
         <script src="template/assets/js/main.js"></script>
         <script src="template/assets/js/token.js"></script>
+        @toastr_js
+        @toastr_render
 
         <div class="hidden-section"></div>
         @stack('scripts')
