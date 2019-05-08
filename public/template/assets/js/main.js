@@ -28,6 +28,23 @@
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
       },
+      breakpoints: {
+	    // when window width is <= 320px
+	    320: {
+	      slidesPerView: 1,
+	      spaceBetween: 10
+	    },
+	    // when window width is <= 480px
+	    480: {
+	      slidesPerView: 2,
+	      spaceBetween: 20
+	    },
+	    // when window width is <= 640px
+	    640: {
+	      slidesPerView: 3,
+	      spaceBetween: 30
+	    }
+	  }
     });
 
 
@@ -264,5 +281,32 @@
 
 		$banner
 			._parallax();
+
+	function toggleTeam($this){
+		$('.team-read-more').not($this).closest('.team-tile').removeClass('act');
+
+    	if($($this).closest('.team-tile').hasClass('act')){
+    		$($this).closest('.team-tile').removeClass('act');
+    	} else {
+    		$($this).closest('.team-tile').addClass('act');	
+    	}
+	}
+			
+    // Click toogle membercard info
+    $('.team-read-more').on('click', function(e){
+    	toggleTeam(this);
+    });
+
+    // Click toogle membercard info
+    $('.member-head').on('click', function(e){
+    	toggleTeam(this);
+    });
+
+    // Close membercard info
+    $('.team-member-card-close').on('click', function(e){
+    	if($(this).closest('.team-tile').hasClass('act')){
+    		$(this).closest('.team-tile').removeClass('act');
+    	}
+    });
 
 })(jQuery);

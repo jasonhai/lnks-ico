@@ -911,3 +911,165 @@ footer .nav-link {
     font-size: inherit;
     text-rendering: auto;
 }
+
+/*Add ons*/
+
+.team-tile-content {
+    position: relative;
+}
+
+.member-content {
+    text-align: left;
+}
+
+.member-head {
+    cursor: pointer;
+}
+
+.team-member-header {
+    margin: 40px 0 0;
+}
+
+.team-member-header .team-member-name {
+    font-size: 1.875rem;
+    font-weight: 300;
+    margin: 0 0 .25em;
+}
+
+.team-member-header .team-member-meta {
+        font-size: .6875rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .25em;
+    margin: 1em 0;
+    display: block;
+    display: -webkit-box;
+    height: 3rem;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+
+.team-member-header .team-member-location {
+    color: #595959;
+    display: block;
+    font-weight: 400;
+}
+
+.team-member-bio {
+    font-size: 1.125rem;
+    color: #4A4A4A;
+    display: block;
+    display: -webkit-box;
+    max-height: 5.0625rem;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    -webkit-transition: 1s linear;
+    transition: 1s linear;
+}
+
+.team-read-more {
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 700;
+    margin: 1em 0 0;
+    color: #4A4A4A;
+    -webkit-transition: .13s ease;
+    transition: .13s ease;
+}
+
+.team-read-more:after {
+    content: '+';
+    margin-left: .5em;
+    display: inline-block;
+}
+
+.team-member-social {
+    margin: 2.5em 0 0;
+    padding: 1px;
+    list-style: none;
+}
+
+.team-member-social li {
+    display: inline-block;
+    margin-right: .75em;
+    padding-left: 0;
+}
+
+.team-member-social li a i {
+    font-size: 20px;
+}
+
+.team-member-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    background: #FBFBFB;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+    -webkit-transition: .3s ease;
+    transition: .3s ease;
+}
+
+.team-tile.act .team-member-card {
+    visibility: visible;
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    text-align: left;
+}
+
+.team-member-card .team-member-card-text {
+    padding: 40px 20px;
+}
+
+.team-member-card .team-member-card-close {
+    background: none;
+    border: none;
+    position: absolute;
+    top: 28px;
+    right: 20px;
+    font-size: 26px;
+    color: #000;
+    cursor: pointer;
+    outline: none;
+}
+
+/* WE CAN DO TOGETHETR */
+.avatar-member-name {
+    color: #333;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 25px 0 5px;
+    display: block;
+    font-weight: 700;
+}
+
+.avatar-member-position {
+    padding-bottom: 0;
+    font-size: 12px;
+    color: #777;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: block;
+    box-sizing: border-box;
+}
+
+.avatar-content:hover img {
+    opacity: 0.1;
+    transition: opacity .3s ease-in-out;
+}
+
+.testimonials img{
+    width: 271px;
+    height: 271px;
+}

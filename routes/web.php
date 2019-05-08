@@ -20,6 +20,14 @@ Route::get('/notification', function () {
 });
 
 Route::post('/subscriber', 'FrontendController@subscriber');
+Route::get('/smart-contract', 'FrontendController@smartContract');
+Route::get('/careers', 'FrontendController@careers');
+Route::get('/road-map', 'FrontendController@roadMap');
+Route::get('/extra-information', 'FrontendController@extraInformation');
+Route::get('/board-of-markers', 'FrontendController@boardOfMarkers');
+Route::get('/testimonials', 'FrontendController@testimonials');
+
+
 Route::get('/login', function () { return view('login'); });
 Route::get('/register', function () { return view('register'); });
 Route::post('/submit-login', 'FrontendController@postLogin');

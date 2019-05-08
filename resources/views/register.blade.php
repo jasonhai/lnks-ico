@@ -10,7 +10,7 @@
                 <center>
                     <a href="{{ url('/') }}""><img src="template/images/lnks/logo.png" class="w-100 mb-10" style="margin-left:auto; margin-right:auto; margin-top:-20px;"></a>
                 </center>
-                <h5 class="text-uppercase text-center">SIGN UP FOR THE GIFCOIN TOKEN SALE</h5>
+                <h5 class="text-uppercase text-center">SIGN UP FOR THE SLV TOKEN SALE</h5>
                 <h6 class="text-uppercase text-center mb-10" style="font-size: 12px; color: #999;">ALREADY HAVE AN ACCOUNT? - <a href="{{ url('/login') }}"" style="color: #0275d8; text-decoration: underline;">SIGN IN</a>
                 <h5 class="text-uppercase text-center mb-10" style="color:#3152ed; font-weight: bold;"></h5>
                 <form method="post" class="m-0" action="{{ url('/submit-register') }}">
@@ -45,7 +45,7 @@
                         <label class="custom-control custom-checkbox">
                             <input type="checkbox" name="terms" required value="1" class="custom-control-input" style="border: 1px solid #222;">
                             <span class="custom-control-indicator" style="border: 1px solid #222;"></span>
-                            <span class="custom-control-description"><small class="fs-11 lh-12 text-dark ">I hereby agree to the <a href="/index/terms/" target="_blank">Terms &amp; Conditions</a> and the <a href="/index/privacy/" target="_blank">Privacy Policy</a></small></span>
+                            <span class="custom-control-description"><small class="fs-11 lh-12 text-dark ">I hereby agree to the <a href="/01.Whitepaper_Original_version.pdf" target="_blank">Terms &amp; Conditions</a> and the <a href="/03.Distribution_Agreement_Original_version.pdf" target="_blank">Privacy Policy</a></small></span>
                         </label>
                     </div>
 
@@ -53,7 +53,7 @@
                         <label class="custom-control custom-checkbox">
                             <input type="checkbox" name="terms2" required value="3" class="custom-control-input">
                             <span class="custom-control-indicator" style="border: 1px solid #222;"></span>
-                            <span class="custom-control-description"><small class=" fw-400 text-dark lh-12">I herewith confirm that I am aware of the restrictions applying with respect to the participation in the Token Sale to residents of “Restricted Countries” in the Terms &amp; Conditions of the Token Sale.</small></span>
+                            <span class="custom-control-description"><small class=" fw-400 text-dark lh-12">I hereby agree to <a href="/01.Whitepaper_Original_version.pdf" target="_blank">Token Purchase Agreement</a></small></span>
                         </label>
                     </div>
 

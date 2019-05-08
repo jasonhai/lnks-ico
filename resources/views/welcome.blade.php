@@ -21,7 +21,7 @@
         </section>
 
     <!-- video -->
-        <section id="videos" class="pt-40 pb-80">
+        <!-- <section id="videos" class="pt-40 pb-80">
             <div class="content">
                 <div class="container">
                     <div class="row">
@@ -80,7 +80,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Add Arrows -->
                                 <div class="swiper-button-next"></div>
                                 <div class="swiper-button-prev"></div>
                             </div>
@@ -89,7 +88,7 @@
                 </div>
             </div>
             <a href="#two" class="goto-next scrolly">Next</a>
-        </section>
+        </section> -->
 
     <!-- whatis -->
         <section id="whatis" class="pt-40 pb-90">
@@ -179,7 +178,7 @@
                         </div>
                         <div class="col-5 whitepaper-btn m-0">
                             <a class="change-btn-res btn btn-lg btn-round btn-white" href="/GifCoin-WhitePaper.pdf">Read the Whitepaper</a>
-                            <a href="https://github.com/slvone/Documents/blob/master/01.%20Whitepaper_Original%20version.pdf">
+                            <a href="/01.Whitepaper_Original_version.pdf">
                                 <div class="div_whitepepar">
                                     <img src="template/images/whit-ppr.png">
                                 </div>
@@ -191,125 +190,296 @@
         </section>
 
         <!-- Seen on section -->
-        <section class="seenon_section bg-grey py-80">
+        <section class="seenon_section bg-grey py-80 testimonials">
             <div class="content">
                 <div class="container">
                     <header class="text-center mb-40 pb-20 headbg2">
                         <h2>TESTIMONIALS<span class="background_heading_2">TESTIMONIALS</span></h2>
                     </header>
-                    <!-- <div class="row partner">
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
+                    <div class="row">
+                        <div class="col-3 mb-20 team-tile">
+                            <div class="team-tile-content">
+                                <div class="member-head">
+                                    <img src="template/images/slv-logo.jpg">
+                                </div>
+                                <div class="member-content">
+                                    <header class="team-member-header">
+                                        <a href="https://www.linkedin.com/in/billshihara/" target="_blank"> 
+                                            <h3 class="team-member-name">Bill Shihara</h3>
+                                        </a>
+                                        <div class="team-member-meta"> 
+                                            <span class="team-member-title">CEO at Bittrex</span> 
+                                            <span class="team-member-location"> 
+                                                <span class="location-name location-hong-kong">Greater Seattle Area</span> 
+                                            </span>
+                                        </div>
+                                    </header>
+                                    <div class="team-member-bio">
+                                        <p>I think assets backed tokens are an area of growth for blockchain.</p>
+                                    </div>
+                                    <span class="team-read-more">Read more</span>
+                                </div>
+                                <div class="team-member-card"> 
+                                    <button class="team-member-card-close no-style">
+                                        <i class="icon alt fa-close"></i> 
+                                    </button>
+                                    <div class="team-member-card-inner">
+                                        <div class="team-member-card-text">
+                                            <header class="team-member-header">
+                                                <h3 class="team-member-name">Bill Shihara</h3>
+                                                <div class="team-member-meta"> 
+                                                    <span class="team-member-title">CEO at Bittrex</span> 
+                                                    <span class="team-member-location"> 
+                                                        <span class="location-name location-hong-kong">Greater Seattle Area</span> 
+                                                    </span>
+                                                </div>
+                                            </header>
+                                            <div class="team-member-card-content">
+                                                <p>I think assets backed tokens are an area of growth for blockchain.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
+                        <!-- End member -->
+                        <div class="col-3 mb-20 team-tile">
+                            <div class="team-tile-content">
+                                <div class="member-head">
+                                    <img src="template/images/testimonials/vladimir.jpeg">
+                                </div>
+                                <div class="member-content">
+                                    <header class="team-member-header">
+                                        <a href="https://www.linkedin.com/in/vlprosvirkin/" target="_blank"> 
+                                            <h3 class="team-member-name">Vladimir Prosvirkin</h3>
+                                        </a>
+                                        <div class="team-member-meta"> 
+                                            <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span> 
+                                            <span class="team-member-location"> 
+                                                <span class="location-name location-hong-kong">Moscow, Russian Federation</span> 
+                                            </span>
+                                        </div>
+                                    </header>
+                                    <div class="team-member-bio">
+                                        <p>Asset tokenization can give access to the portfolio diversification to crypto traders and boost liquidity of the assets by giving access to the ordinary people.</p>
+                                    </div>
+                                    <span class="team-read-more">Read more</span>
+                                </div>
+                                <div class="team-member-card"> 
+                                    <button class="team-member-card-close no-style">
+                                        <i class="icon alt fa-close"></i> 
+                                    </button>
+                                    <div class="team-member-card-inner">
+                                        <div class="team-member-card-text">
+                                            <header class="team-member-header">
+                                                <h3 class="team-member-name">Vladimir Prosvirkin</h3>
+                                                <div class="team-member-meta"> 
+                                                    <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span> 
+                                                    <span class="team-member-location"> 
+                                                        <span class="location-name location-hong-kong">Moscow, Russian Federation</span> 
+                                                    </span>
+                                                </div>
+                                            </header>
+                                            <div class="team-member-card-content">
+                                                <p>Asset tokenization can give access to the portfolio diversification to crypto traders and boost liquidity of the assets by giving access to the ordinary people.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
+                        <!-- End member -->
+                        <div class="col-3 mb-20 team-tile">
+                            <div class="team-tile-content">
+                                <div class="member-head">
+                                    <img src="template/images/testimonials/shy-yeo.jpeg">
+                                </div>
+                                <div class="member-content">
+                                    <header class="team-member-header">
+                                        <a href="https://www.linkedin.com/in/ladybossz/" target="_blank"> 
+                                            <h3 class="team-member-name">Shy Yeo</h3>
+                                        </a>
+                                        <div class="team-member-meta"> 
+                                            <span class="team-member-title">Listing Guide Manager at Bithumb</span> 
+                                            <span class="team-member-location"> 
+                                                <span class="location-name location-hong-kong">Singapore</span> 
+                                            </span>
+                                        </div>
+                                    </header>
+                                    <div class="team-member-bio">
+                                        <p>Well, I guess "tokenizing silver" will be considered as ST since it is based on real asset. So buy silver token meaning that investor is holding the value of silver at certain price they agreed.</p>
+                                    </div>
+                                    <span class="team-read-more">Read more</span>
+                                </div>
+                                <div class="team-member-card"> 
+                                    <button class="team-member-card-close no-style">
+                                        <i class="icon alt fa-close"></i> 
+                                    </button>
+                                    <div class="team-member-card-inner">
+                                        <div class="team-member-card-text">
+                                            <header class="team-member-header">
+                                                <h3 class="team-member-name">Shy Yeo</h3>
+                                                <div class="team-member-meta"> 
+                                                    <span class="team-member-title">Listing Guide Manager at Bithumb</span> 
+                                                    <span class="team-member-location"> 
+                                                        <span class="location-name location-hong-kong">Singapore</span> 
+                                                    </span>
+                                                </div>
+                                            </header>
+                                            <div class="team-member-card-content">
+                                                <p>Well, I guess "tokenizing silver" will be considered as ST since it is based on real asset. So buy silver token meaning that investor is holding the value of silver at certain price they agreed.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
+                        <!-- End member -->
+                        <div class="col-3 mb-20 team-tile">
+                            <div class="team-tile-content">
+                                <div class="member-head">
+                                    <img src="template/images/slv-logo.jpg">
+                                </div>
+                                <div class="member-content">
+                                    <header class="team-member-header">
+                                        <a href="https://www.linkedin.com/in/sung-nam-0375908/" target="_blank"> 
+                                            <h3 class="team-member-name">Sung Nam </h3>
+                                        </a>
+                                        <div class="team-member-meta"> 
+                                            <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span> 
+                                            <span class="team-member-location"> 
+                                                <span class="location-name location-hong-kong">Korea</span> 
+                                            </span>
+                                        </div>
+                                    </header>
+                                    <div class="team-member-bio">
+                                        <p>I like the idea.The issue is custodian. Wondering how open institutions will be to a custodian service in Caymans.</p>
+                                    </div>
+                                    <span class="team-read-more">Read more</span>
+                                </div>
+                                <div class="team-member-card"> 
+                                    <button class="team-member-card-close no-style">
+                                        <i class="icon alt fa-close"></i> 
+                                    </button>
+                                    <div class="team-member-card-inner">
+                                        <div class="team-member-card-text">
+                                            <header class="team-member-header">
+                                                <h3 class="team-member-name">Sung Nam </h3>
+                                                <div class="team-member-meta"> 
+                                                    <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span> 
+                                                    <span class="team-member-location"> 
+                                                        <span class="location-name location-hong-kong">Korea</span> 
+                                                    </span>
+                                                </div>
+                                            </header>
+                                            <div class="team-member-bio">
+                                                <p>I like the idea.The issue is custodian. Wondering how open institutions will be to a custodian service in Caymans.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
+                        <!-- End member -->
+
+                        <div class="col-3 mb-20 team-tile">
+                            <div class="team-tile-content">
+                                <div class="member-head">
+                                    <img src="template/images/testimonials/yanstavisski.jpeg">
+                                </div>
+                                <div class="member-content">
+                                    <header class="team-member-header">
+                                        <a href="https://www.linkedin.com/in/yanstavisski/" target="_blank"> 
+                                            <h3 class="team-member-name">Yan Stavisski</h3>
+                                        </a>
+                                        <div class="team-member-meta"> 
+                                            <span class="team-member-title">US Operation at LATOKEN</span> 
+                                            <span class="team-member-location"> 
+                                                <span class="location-name location-hong-kong">San Francisco Bay Area</span> 
+                                            </span>
+                                        </div>
+                                    </header>
+                                    <div class="team-member-bio">
+                                        <p>Great idea, I know several projects who are tokenizing gold.</p>
+                                    </div>
+                                    <span class="team-read-more">Read more</span>
+                                </div>
+                                <div class="team-member-card"> 
+                                    <button class="team-member-card-close no-style">
+                                        <i class="icon alt fa-close"></i> 
+                                    </button>
+                                    <div class="team-member-card-inner">
+                                        <div class="team-member-card-text">
+                                            <header class="team-member-header">
+                                                <h3 class="team-member-name">Yan Stavisski</h3>
+                                                <div class="team-member-meta"> 
+                                                    <span class="team-member-title">US Operation at LATOKEN</span> 
+                                                    <span class="team-member-location"> 
+                                                        <span class="location-name location-hong-kong">San Francisco Bay Area</span> 
+                                                    </span>
+                                                </div>
+                                            </header>
+                                            <div class="team-member-bio">
+                                                <p>Great idea, I know several projects who are tokenizing gold.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
+
+                        <div class="col-3 mb-20 team-tile">
+                            <div class="team-tile-content">
+                                <div class="member-head">
+                                    <img src="template/images/testimonials/thsun.jpeg">
+                                </div>
+                                <div class="member-content">
+                                    <header class="team-member-header">
+                                        <a href="https://www.linkedin.com/in/thsun/" target="_blank"> 
+                                            <h3 class="team-member-name">Ben Sun </h3>
+                                        </a>
+                                        <div class="team-member-meta"> 
+                                            <span class="team-member-title">Community Manager at OKEx</span> 
+                                            <span class="team-member-location"> 
+                                                <span class="location-name location-hong-kong">Taipei City, Taiwan</span> 
+                                            </span>
+                                        </div>
+                                    </header>
+                                    <div class="team-member-bio">
+                                        <p>Silver backed crypto sounds pretty good.</p>
+                                    </div>
+                                    <span class="team-read-more">Read more</span>
+                                </div>
+                                <div class="team-member-card"> 
+                                    <button class="team-member-card-close no-style">
+                                        <i class="icon alt fa-close"></i> 
+                                    </button>
+                                    <div class="team-member-card-inner">
+                                        <div class="team-member-card-text">
+                                            <header class="team-member-header">
+                                                <h3 class="team-member-name">Ben Sun </h3>
+                                                <div class="team-member-meta"> 
+                                                    <span class="team-member-title">Community Manager at OKEx</span> 
+                                                    <span class="team-member-location"> 
+                                                        <span class="location-name location-hong-kong">Taipei City, Taiwan</span> 
+                                                    </span>
+                                                </div>
+                                            </header>
+                                            <div class="team-member-bio">
+                                                <p>Silver backed crypto sounds pretty good.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                        <div class="col-2 mb-20">
-                            <a href="" target="_blank">
-                                <img src="template/images/icobench.png">
-                            </a>
-                        </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </section>
 
         <!-- How it work section -->
-        <section class="howitwork_section">
+        <!-- <section class="howitwork_section">
             <div class="content">
                 <div class="container">
                     <header class="text-center pt-60 headbg2 section-header">
@@ -320,47 +490,66 @@
                     </header>
 
                     <div class="row">
-                        <div class="col-4 col-12-medium text-center">
-                            <p class="text-success"><i class="fa fa-heart-o fs-50" aria-hidden="true"></i></p>
-                            <h6 class="fw-600 text-uppercase letter-spacing-2 mb-2">Working project<i class="ml-4 text-success fa fa-check-circle" aria-hidden="true" title="Completed"></i></h6>
-                            <p class="fw-500">Most ICOs sell only ideas. GIF is different. Our dedicated team worked hard to create a real working project - VitаlBеt.com.</p>
+                        <div class="col-3 col-12-medium text-center">
+                            <div class="avatar-content pb-20">
+                                <a href="">
+                                    <img src="template/images/brian.jpg">
+                                </a>
+                                <div class="avatar-member-bio">
+                                    <a href="">
+                                        <h2 class="avatar-member-name">Brian Vo</h2>
+                                    </a>
+                                    <div class="avatar-member-position">
+                                        Executive Board Advisor
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-4 col-12-medium text-center">
-                            <p class="text-danger"><i class="fa fa-database fs-50" aria-hidden="true"></i></p>
-                            <h6 class="fw-600 text-uppercase letter-spacing-2 mb-2">Working project<i class="ml-4 fa fa-check-circle" aria-hidden="true" title="Completed"></i></h6>
-                            <p class="fw-500">Most ICOs sell only ideas. GIF is different. Our dedicated team worked hard to create a real working project - VitаlBеt.com.</p>
-                        </div>
-                        <div class="col-4 col-12-medium text-center">
-                            <p class="text-success"><i class="fa fa-heart-o fs-50" aria-hidden="true"></i></p>
-                            <h6 class="fw-600 text-uppercase letter-spacing-2 mb-2">Working project<i class="ml-4 text-success fa fa-check-circle" aria-hidden="true" title="Completed"></i></h6>
-                            <p class="fw-500">Most ICOs sell only ideas. GIF is different. Our dedicated team worked hard to create a real working project - VitаlBеt.com.</p>
-                        </div>
-                        <div class="col-4 col-12-medium text-center">
-                            <p class="text-danger"><i class="fa fa-database fs-50" aria-hidden="true"></i></p>
-                            <h6 class="fw-600 text-uppercase letter-spacing-2 mb-2">Working project<i class="ml-4 fa fa-check-circle" aria-hidden="true" title="Completed"></i></h6>
-                            <p class="fw-500">Most ICOs sell only ideas. GIF is different. Our dedicated team worked hard to create a real working project - VitаlBеt.com.</p>
-                        </div>
-                        <div class="col-4 col-12-medium text-center">
-                            <p class="text-success"><i class="fa fa-heart-o fs-50" aria-hidden="true"></i></p>
-                            <h6 class="fw-600 text-uppercase letter-spacing-2 mb-2">Working project<i class="ml-4 text-success fa fa-check-circle" aria-hidden="true" title="Completed"></i></h6>
-                            <p class="fw-500">Most ICOs sell only ideas. GIF is different. Our dedicated team worked hard to create a real working project - VitаlBеt.com.</p>
-                        </div>
-                        <div class="col-4 col-12-medium text-center">
-                            <p class="text-danger"><i class="fa fa-database fs-50" aria-hidden="true"></i></p>
-                            <h6 class="fw-600 text-uppercase letter-spacing-2 mb-2">Working project<i class="ml-4 fa fa-check-circle" aria-hidden="true" title="Completed"></i></h6>
-                            <p class="fw-500">Most ICOs sell only ideas. GIF is different. Our dedicated team worked hard to create a real working project - VitаlBеt.com.</p>
+                        <div class="col-9 col-12-medium">
+                            <div class="avatar-info">
+                                <h2>
+                                    Background
+                                </h2>
+                                <p>I am blockchain researcher and business strategist with a passion for financial empowerment. I am also passionate about the intersection of finance and technology.</p>
+                            </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-3 col-12-medium text-center">
+                            <div class="avatar-content pb-20">
+                                <a href="">
+                                    <img src="template/images/jason.png">
+                                </a>
+                                <div class="avatar-member-bio">
+                                    <a href="">
+                                        <h2 class="avatar-member-name">Jason Hai</h2>
+                                    </a>
+                                    <div class="avatar-member-position">
+                                        Senior LAMP Stack
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-9 col-12-medium">
+                            <div class="avatar-info">
+                                <h2>
+                                    Background
+                                </h2>
+                                <p>Jason Hai has a lot of experience in PHP and Server. Technology is always change, He thinks that blockchain will be the best tool for any transactions in the near future.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
-        </section>
+        </section> -->
 
     <!-- Five -->
         <section id="five" class="wrapper style2 special fade">
             <div class="container">
                 <header>
-                    <h2>Magna faucibus lorem diam</h2>
-                    <p>Ante metus praesent faucibus ante integer id accumsan eleifend</p>
+                    <h2>Join our newsletter</h2>
+                    <p>Drop your email address to receive all the information from SLV tean.</p>
                 </header>
                 <form method="post" action="{{ url('subscriber') }}" class="cta">
                     {{ csrf_field() }}
@@ -391,10 +580,10 @@
                 </div> -->
 
                 <div class="nav m-0 row gap-y pt-10" style="border-top:1px solid #5d5d5d;margin:  0;">
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/Whitepaper.docx') }}">Whitepaper</a>
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/DistributionAgreement.docx') }}">Privacy Policy</a>
+                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/01.Whitepaper_Original_version.pdf') }}">Whitepaper</a>
+                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/03.Distribution_Agreement_Original_version.pdf') }}">Privacy Policy</a>
                     <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/') }}">Terms Of Use</a>
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="mailto:support@cryptolink.network" target="_blank">Contact Us</a>
+                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="mailto:pmhai90@gmail.com" target="_blank">Contact Us</a>
 
                 </div>
              </div>

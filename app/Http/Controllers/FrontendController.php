@@ -93,4 +93,34 @@ class FrontendController extends Controller
             toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
         }
     }
+
+    public function smartContract()
+    {
+        return view('smart-contract');
+    }
+
+    public function careers()
+    {
+        return view('smart-contract');
+    }
+
+    public function roadMap()
+    {
+        return view('smart-contract');
+    }
+
+    public function extraInformation()
+    {
+        return view('smart-contract');
+    }
+
+    public function boardOfMarkers()
+    {
+        return view('smart-contract');
+    }
+
+    public function testimonials()
+    {
+        return view('testimonials');
+    }
 }
