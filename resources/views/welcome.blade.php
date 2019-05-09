@@ -549,7 +549,7 @@
             <div class="container">
                 <header>
                     <h2>Join our newsletter</h2>
-                    <p>Drop your email address to receive all the information from SLV tean.</p>
+                    <p>Drop your email address to receive all the information from SLV team.</p>
                 </header>
                 <form method="post" action="{{ url('subscriber') }}" class="cta">
                     {{ csrf_field() }}
