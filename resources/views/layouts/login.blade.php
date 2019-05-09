@@ -4,7 +4,7 @@
         <title>@yield('title')</title>
         <meta charset="utf-8" />
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <meta http-equiv="Content-Security-Policy" content="font-src 'self' data:; img-src 'self' data:; default-src 'self' https://fonts.googleapis.com">
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' gap:; script-src 'self' data: https://ssl.gstatic.com 'unsafe-eval'; object-src *; style-src 'self' data: 'unsafe-inline'; img-src 'self' data:; media-src 'self' data:; font-src 'self' data:; connect-src *">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="template/assets/css/main.css" />
         <noscript><link rel="stylesheet" href="template/assets/css/noscript.css" /></noscript>
