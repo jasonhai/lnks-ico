@@ -4,7 +4,6 @@
         <!-- <title>Silverlink Network</title> -->
         <title>@yield('title')</title>
         <meta charset="utf-8" />
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self'; font-src data:" />
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="template/assets/css/main.css" />
