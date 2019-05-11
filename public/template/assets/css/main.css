@@ -3343,7 +3343,7 @@ input::-moz-focus-inner {
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
-		min-height: 100vh;
+		min-height: 80vh;
 		position: relative;
 		text-align: center;
 		z-index: 21;
@@ -3352,7 +3352,7 @@ input::-moz-focus-inner {
 		#banner:before {
 			content: '';
 			display: inline-block;
-			height: 100vh;
+			height: 80vh;
 			vertical-align: middle;
 			width: 1%;
 		}
@@ -3386,6 +3386,7 @@ input::-moz-focus-inner {
 				#banner .content header h2 {
 					font-size: 2.5em;
 					margin: 0;
+					text-align: center;
 				}
 
 				#banner .content header p {
@@ -3416,7 +3417,7 @@ input::-moz-focus-inner {
 
 	#footer {
 		background: #272833;
-		padding: 6em 0;
+		padding: 1em 0;
 		text-align: center;
 	}
 

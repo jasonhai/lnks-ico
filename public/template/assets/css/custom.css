@@ -1073,3 +1073,18 @@ footer .nav-link {
     width: 271px;
     height: 271px;
 }
+
+#banner-no-content{
+    min-height: 100px;
+}
+
+.smart-contract{
+    padding-top: 2.65rem;
+}
+
+.smart-contract .content h1{
+    font-size: 1.65rem;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgba(176,180,207,.175);
+    padding-bottom: .3rem;
+}

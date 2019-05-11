@@ -17,7 +17,8 @@
                 </header>
                 <span class="image"><img src="template/images/pic01.png" alt="" /></span>
             </div>
-            <a href="https://github.com/slvone?tab=repositories" class="goto-next scrolly">Next</a>
+            <!-- <a href="https://github.com/slvone?tab=repositories" class="goto-next scrolly">Next</a> -->
+            <a class="goto-next scrolly">Next</a>
         </section>
 
     <!-- video -->
@@ -545,53 +546,9 @@
         </section> -->
 
     <!-- Five -->
-        <section id="five" class="wrapper style2 special fade">
-            <div class="container">
-                <header>
-                    <h2>Join our newsletter</h2>
-                    <p>Drop your email address to receive all the information from SLV team.</p>
-                </header>
-                <form method="post" action="{{ url('subscriber') }}" class="cta">
-                    {{ csrf_field() }}
-                    <div class="row gtr-uniform gtr-50">
-                        <div class="col-8 col-12-xsmall"><input type="email" required name="email" id="email" placeholder="Your Email Address" /></div>
-                        <div class="col-4 col-12-xsmall"><input type="submit" value="Get Started" class="fit primary" /></div>
-                    </div>
-                </form>
-            </div>
-        </section>
+    @include('partials.subcribe')
 
     <!-- Footer -->
-        <footer id="footer">
-            <div class="container pb-20 pt-30">
-                <!-- <div class="row gap-y m-0 mb-30 fs-20 footer-contacts">
-                    <div class="col-4 p-15 text-center col-md-4 ">
-                        <i class="fa fs-40 mr-10 fa-phone" aria-hidden="true"></i>
-                        <a class="phone" href="tel:+359886496592">+ 359 886 496 592</a>
-                    </div>
-                    <div class="col-4 p-15 text-center col-md-4">
-                        <i class="fa fs-40  mr-10 fa-envelope-o" aria-hidden="true"></i>
-                        <a href="support@cryptolink.network" target="_top">support@cryptolink.network</a>
-                    </div>
-                    <div class="col-4 p-15 text-center col-md-4">
-                        <i class="fa fs-40 mr-10 fa-telegram" aria-hidden="true"></i>
-                        <a href="https://t.me/gifcoin">Telegram</a>
-                    </div>
-                </div> -->
+    @include('partials.footer')   
 
-                <div class="nav m-0 row gap-y pt-10" style="border-top:1px solid #5d5d5d;margin:  0;">
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/01.Whitepaper_Original_version.pdf') }}">Whitepaper</a>
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/03.Distribution_Agreement_Original_version.pdf') }}">Privacy Policy</a>
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/') }}">Terms Of Use</a>
-                    <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="mailto:pmhai90@gmail.com" target="_blank">Contact Us</a>
-
-                </div>
-             </div>
-            <ul class="icons">
-                <li><a href="https://twitter.com/slv_one" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="https://discord.gg/F8Kske8" class="icon alt fa-twitter"><span class="label">Discord</span></a></li>
-                <li><a href="https://github.com/slvone" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-                <li><a href="https://t.me/joinchat/HhaAjRQ3eQA_" class="icon alt fa-telegram"><span class="label">Telegram</span></a></li>
-            </ul>
-        </footer>
 @stop

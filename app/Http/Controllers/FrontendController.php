@@ -101,22 +101,22 @@ class FrontendController extends Controller
 
     public function careers()
     {
-        return view('smart-contract');
+        return view('career');
     }
 
     public function roadMap()
     {
-        return view('smart-contract');
+        return view('roap-map');
     }
 
     public function extraInformation()
     {
-        return view('smart-contract');
+        return view('extra-information');
     }
 
     public function boardOfMarkers()
     {
-        return view('smart-contract');
+        return view('board-marker');
     }
 
     public function testimonials()
