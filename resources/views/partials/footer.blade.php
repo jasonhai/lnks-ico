@@ -12,6 +12,6 @@
         <li><a href="https://twitter.com/slv_one" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
         <!-- <li><a href="https://discord.gg/F8Kske8" class="icon alt fa-twitter"><span class="label">Discord</span></a></li> -->
         <li><a href="https://github.com/slvone" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-        <li><a href="https://t.me/joinchat/HhaAjRQ3eQA_" class="icon alt fa-telegram"><span class="label">Telegram</span></a></li>
+        <li><a href="https://bit.ly/2JB25B7" class="icon alt fa-telegram"><span class="label">Telegram</span></a></li>
     </ul>
 </footer>
