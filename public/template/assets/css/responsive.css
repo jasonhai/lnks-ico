@@ -4,14 +4,14 @@
 	}
 
 	.col-md-6 {
-	    -webkit-box-flex: 0;
-	    -webkit-flex: 0 0 50%;
-	    -ms-flex: 0 0 50%;
-	    flex: 0 0 50%;
-	    max-width: 50%;
-	    float: left;
-	    display: inline-block;
-	    width: 50%;
+		-webkit-box-flex: 0;
+		-webkit-flex: 0 0 50%;
+		-ms-flex: 0 0 50%;
+		flex: 0 0 50%;
+		max-width: 50%;
+		float: left;
+		display: inline-block;
+		width: 50%;
 	}
 
 	.col-left {
@@ -29,25 +29,25 @@
 	}
 
 	section {
-	    padding-top: 50px!important;
-	    padding-bottom: 50px!important;
+		padding-top: 50px!important;
+		padding-bottom: 50px!important;
 	}
 
 	.whitepaper-btn {
-	    display: block;
+		display: block;
 		width: 100% !important;
 		text-align: center;
 	}
 
 	.whitepaper-btn h4 {
-	    position: initial !important;
-	    margin-top: 40px;
+		position: initial !important;
+		margin-top: 40px;
 	}
 
 	.whitepaper-btn .change-btn-res {
-	    position: initial;
-	    margin-bottom: 40px;
-	    display: block;
+		position: initial;
+		margin-bottom: 40px;
+		display: block;
 	}
 
 	/* SEEN ON */
@@ -55,6 +55,8 @@
 		width: 50% !important;
 	}
 
+	section.seenon_section div.team-tile .member-head img,
+	section.seenon_section div.team-tile,
 	section.howitwork_section .row .col-4 {
 		width: 100%;
 	}
@@ -74,7 +76,7 @@
 
 @media screen and (max-width: 991px) {
 	#whatis {
-	    background-size: 125% 100%!important;
+		background-size: 125% 100%!important;
 	}
 
 	.language,
@@ -85,23 +87,27 @@
 
 @media screen and (min-width: 992px) {
 	#videos {
-    	padding-top: 100px!important;
+		padding-top: 100px!important;
 	}
 }
 
 @media screen and (max-width: 980px) {
 	#videos h4 {
-    	text-align: center;
+		text-align: center;
 	}
 }
 
 @media screen and (max-width: 1023px) {
 	.div_whitepepar {
-	    display: none;
+		display: none;
 	}
 
 	.change-btn-res {
-	    display: block;
+		display: block;
+	}
+
+	section.seenon_section .team-tile {
+		width: 50%;
 	}
 }
 

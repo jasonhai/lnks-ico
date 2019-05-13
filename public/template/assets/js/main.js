@@ -64,10 +64,6 @@
 		if (browser.mobile)
 			$body.addClass('is-touch');
 
-	// Scrolly links.
-		$('.scrolly').scrolly({
-			speed: 2000
-		});
 
 	// Dropdowns.
 		$('#nav > ul').dropotron({

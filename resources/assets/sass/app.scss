@@ -7,3 +7,16 @@
 
 // Bootstrap
 @import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+//Blocks
+@import "blocks/_roadmap";
+
+//Responsive
+@import "responsive/992";
+@import "responsive/768";
+
+.wrapper {
+  &.style2 {
+    background: #3f9aec;
+  }
+}

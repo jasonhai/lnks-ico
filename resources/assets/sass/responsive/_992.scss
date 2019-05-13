@@ -1,0 +1,34 @@
+@media screen and (max-width: 991px) {
+  .roadmap > li {
+    width: 100%;
+    float: left;
+  }
+
+  .roadmap > li > .roadmap-badge {
+    left: 95%;
+    top: -35px;
+    width: 42px;
+    height: 42px;
+    margin-right: 10px;
+  }
+
+  .roadmap > li > .roadmap-badge span {
+    width: 42px;
+    height: 42px;
+    background-size: cover;
+    font-size: 16px;
+    line-height: 42px;
+    font-weight: normal;
+  }
+
+  .roadmap > li > .roadmap-panel:after,
+  .roadmap > li > .roadmap-panel:before {
+    display: none;
+  }
+
+  .roadmap > li > .roadmap-panel, .roadmap > li.roadmap-inverted > .roadmap-panel {
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 10px;
+  }
+}
