@@ -1,4 +1,13 @@
 @media screen and (max-width: 991px) {
+  .navPanel-visible #titleBar .toggle:before {
+    content: '\f00d';
+  }
+
+  section.whitepaper_section {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
   .smart-contract .container {
     width: 100%;
   }

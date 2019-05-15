@@ -107,7 +107,7 @@
                             <h4>Do you want to know more?</h4>
                         </div>
                         <div class="col-md-5 whitepaper-btn m-0">
-                            <a class="change-btn-res btn btn-lg btn-round btn-white" href="/GifCoin-WhitePaper.pdf">Read the Whitepaper</a>
+                            <a class="change-btn-res btn btn-lg btn-round btn-white" href="/01.Whitepaper_Original_version.pdf">Read the Whitepaper</a>
                             <a href="/01.Whitepaper_Original_version.pdf">
                                 <div class="div_whitepepar">
                                     <img src="template/images/whit-ppr.png">

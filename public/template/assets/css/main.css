@@ -2173,10 +2173,6 @@ input::-moz-focus-inner {
 					text-decoration: none;
 				}
 
-					#navPanel .link:hover {
-						color: inherit !important;
-					}
-
 					#navPanel .link:first-child {
 						border-top: 0;
 					}
@@ -2306,8 +2302,3 @@ input::-moz-focus-inner {
 					}
 
 	}
-
-
-.fa-discord {
-    background: url('https://api.iconify.design/fa-brands:discord.svg') no-repeat center center / contain;
-}

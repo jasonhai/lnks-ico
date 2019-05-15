@@ -22254,6 +22254,16 @@ html {
   padding: 8px 12px;
 }
 
+.fa-discord {
+  background: url("/template/images/discord-icon.svg") no-repeat;
+  width: 26px;
+  height: 26px;
+  background-size: cover;
+  background-position: center;
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+
 .job-content .job-name {
   line-height: 1.2;
 }
@@ -22592,6 +22602,13 @@ html {
 }
 
 @media screen and (max-width: 991px) {
+  .navPanel-visible #titleBar .toggle:before {
+    content: '\F00D';
+  }
+  section.whitepaper_section {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
   .smart-contract .container {
     width: 100%;
   }

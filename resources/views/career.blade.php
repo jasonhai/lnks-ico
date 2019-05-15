@@ -94,7 +94,7 @@
                                 REMOTE | SOFTWARE DEVELOPMENT
                             </div>
                             <div class="job-description">
-                                <p>Our team is looking for a passionate Full-stack Ethereum dApp Developer. The Full-stack Ethereum dApp Developer, will be responsible for coding and modifying dApps running on the Ethereum software, from layout to function and according to developer’s assigned.</p>
+                                <p>Our team is looking for a passionate Full-stack Ethereum dApp Developer. The Full-stack Ethereum dApp Developer, will be responsible for coding and modifying dApps running on the Ethereum software, from layout to function and according to developer’s assigned…</p>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                                 SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
                             </div>
                             <div class="job-description">
-                                <p>We are looking for passionate C++ engineers to join our team in Singapore and remote. You will be responsible for helping design, develop, and execute the Ethereum software and other future decentralized projects, and to coordinate with the rest.</p>
+                                <p>We are looking for passionate C++ engineers to join our team in Singapore and remote. You will be responsible for helping design, develop, and execute the Ethereum software and other future decentralized projects, and to coordinate with the rest…</p>
                             </div>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                                 SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
                             </div>
                             <div class="job-description">
-                                <p>We are looking for several Junior UX Designer to assist in designing web and native applications with a focus on clean beautiful user experiences in our office in Singapore. Be part of a design-centric culture that focuses on solving.</p>
+                                <p>We are looking for several Junior UX Designer to assist in designing web and native applications with a focus on clean beautiful user experiences in our office in Singapore. Be part of a design-centric culture that focuses on solving…</p>
                             </div>
                         </div>
                     </div>

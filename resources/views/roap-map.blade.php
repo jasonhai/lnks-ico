@@ -87,6 +87,7 @@
                                         <ul class="rm-completed-list">
                                             <li>Silverlink Network signs agreement with important companies, distributors of precious metals</li>
                                             <li>Link portfolio is diversified with extra commodities being integrated into platform such as Gold and Palladium (Testing)</li>
+                                            <li>Minter Smart Contract in testing</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -152,7 +153,7 @@
                                         <h4>Accomplishments</h4>
                                         <ul class="rm-completed-list">
                                             <li>New website will feature improved design and user experience</li>
-                                            <li>The New Growth Stage Whitepaper v2 will portray and put into perspective the grand vision of the ARK ecosystem</li>
+                                            <li>The New Growth Stage Whitepaper v2 will portray and put into perspective the grand vision of the SLVone ecosystem</li>
                                             <li>Provide more technical sections for tech savvy people</li>
                                         </ul>
                                     </div>
@@ -166,9 +167,9 @@
                                         <div class="right-corners"></div>
                                         <h4>Projections</h4>
                                         <ul>
+                                            <li>Presale on New Growth Stage</li>
+                                            <li>List token on DEXs and several big CEXs</li>
                                             <li>SWAP function is live</li>
-                                            <li>Presale for New Growth Stage</li>
-                                            <li>List token on DEX exchange and several big exchanges</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -182,7 +183,7 @@
                                         <h4>Projections</h4>
                                         <ul>
                                             <li>Get Certificate at Silver Bullion Singapore</li>
-                                            <li>Upgrade Production Version Ready v2</li>
+                                            <li>Upgrade Minter Smart Contract on Production Version Ready v2</li>
                                             <li>Silver Token SLR is minted and traded on Production Version Ready v2</li>
                                         </ul>
                                     </div>
@@ -202,7 +203,7 @@
                                         <h4>Projections</h4>
                                         <ul>
                                             <li>Redemption function is live</li>
-                                            <li>Get Certificate at SWP Cayman Island</li>
+                                            <li>Get Certificate at Salt Lake City Bullion Vault</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -215,7 +216,7 @@
                                         <div class="right-corners"></div>
                                         <h4>Projections</h4>
                                         <ul>
-                                            <li>Mainsale</li>
+                                            <li>Mainsale on New Growth Stage</li>
                                             <li>Silver Gateway Partnerships-Silver Bullion is delivered to South East Asia</li>
                                             <li>Link portfolio is diversified with extra commodities being integrated into platform such as Gold and Palladium.</li>
                                         </ul>
@@ -231,7 +232,8 @@
                                         <h4>Projections</h4>
                                         <ul>
                                             <li>Silver Gateway Partnerships-Silver Bullion is delivered to North East Asia</li>
-                                            <li>Trading Silver Bullion on Mobile </li>
+                                            <li>Trading Silver Bullion on Mobile</li>
+                                            <li>$SLV repurchase and burn in the second quarter of 2020</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -247,6 +249,7 @@
                                             <li>Silver Gateway Partnerships-Silver Bullion is delivered to South Asia</li>
                                             <li>Upgrade Production Version Ready v3</li>
                                             <li>Silver Token SLR is minted and traded on Production Version Ready v3</li>
+                                            <li>$SLV repurchase and burn in the third quarter of 2020</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -264,8 +267,9 @@
                                         <div class="right-corners"></div>
                                         <h4>Projections</h4>
                                         <ul>
-                                            <li>Get Certificate at Custodian Vaults Sydney</li>
+                                            <li>Get Certificate at Sydney Custodian Vaults</li>
                                             <li>Silver Gateway Partnerships-Silver Bullion is delivered to Australia</li>
+                                            <li>$SLV repurchase and burn in the fourth quarter of 2020</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -282,6 +286,7 @@
                                             <li>Silver Gateway Partnerships-Silver Bullion is delivered to Europe</li>
                                             <li>Upgrade Production Version Ready v4</li>
                                             <li>Silver Token SLR is minted and traded on Production Version Ready v4</li>
+                                            <li>$SLV repurchase and burn in the first quarter of 2021</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -294,8 +299,9 @@
                                         <div class="right-corners"></div>
                                         <h4>Projections</h4>
                                         <ul>
-                                            <li>Get Certificate at Brazillia</li>
+                                            <li>Get Certificate at SWP Cayman Island</li>
                                             <li>Silver Gateway Partnerships-Silver Bullion is delivered to North & South America</li>
+                                            <li>$SLV repurchase and burn in the second quarter of 2021</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -308,8 +314,9 @@
                                         <div class="right-corners"></div>
                                         <h4>Projections</h4>
                                         <ul>
-                                            <li>Get Certificate at Cape Town</li>
+                                            <li>Get Certificate at Johannesburg Silver Vault</li>
                                             <li>Silver Gateway Partnerships-Silver Bullion is delivered to Africa</li>
+                                            <li>$SLV repurchase and burn in the third quarter of 2021</li>
                                         </ul>
                                     </div>
                                 </div>
