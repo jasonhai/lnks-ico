@@ -2,9 +2,9 @@
     <div class="container pb-20 pt-30">
         <div class="nav m-0 row gap-y pt-10">
             <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/01.Whitepaper_Original_version.pdf') }}">Whitepaper</a>
-            <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/03.Distribution_Agreement_Original_version.pdf') }}">Privacy Policy</a>
-            <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/') }}">Terms Of Use</a>
-            <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="mailto:pmhai90@gmail.com" target="_blank">Contact Us</a>
+            <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/06.Privacy_Policy_SLV.pdf') }}">Privacy Policy</a>
+            <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="{{ url('/05.Terms_of_Use_SLV.pdf') }}">Terms Of Use</a>
+            <a class="col-3 col-6-medium col-12-xsmall text-center nav-link" href="mailto:support@slv.one" target="_blank">Contact Us</a>
 
         </div>
      </div>

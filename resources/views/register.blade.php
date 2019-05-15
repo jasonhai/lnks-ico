@@ -45,7 +45,7 @@
                         <label class="custom-control custom-checkbox">
                             <input type="checkbox" name="terms" required value="1" class="custom-control-input" style="border: 1px solid #222;">
                             <span class="custom-control-indicator" style="border: 1px solid #222;"></span>
-                            <span class="custom-control-description"><small class="fs-11 lh-12 text-dark ">I hereby agree to the <a href="/01.Whitepaper_Original_version.pdf" target="_blank">Terms &amp; Conditions</a> and the <a href="/03.Distribution_Agreement_Original_version.pdf" target="_blank">Privacy Policy</a></small></span>
+                            <span class="custom-control-description"><small class="fs-11 lh-12 text-dark ">I hereby agree to the <a href="/05.Terms_of_Use_SLV.pdf" target="_blank">Terms &amp; Conditions</a> and the <a href="/06.Privacy_Policy_SLV.pdf" target="_blank">Privacy Policy</a></small></span>
                         </label>
                     </div>
 
