@@ -16,7 +16,7 @@
         <a class="goto-next scrolly">Next</a>
     </section>
 
-    <section class="smart-contract">
+    <section class="road-map">
         <div class="content">
             <div class="container">
                 <div class="col-lg-12">

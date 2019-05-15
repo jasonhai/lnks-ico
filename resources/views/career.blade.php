@@ -33,166 +33,98 @@
                 </header>
 
                 <div class="row">
-                    <div class="col-3 col-12-medium text-center">
-                        <div class="avatar-content pb-20">
-                            <div class="avatar-member-bio">
-                                <a href="">
-                                    <h2 class="avatar-member-name">Senior UI Designer</h2>
-                                </a>
-                                <div class="avatar-member-position">
-                                    SINGAPORE & REMOTE | MARKETING AND COMMUNICATIONS
-                                </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">Senior UI Designer</h2>
+                            </a>
+                            <div class="job-position">
+                                SINGAPORE & REMOTE | MARKETING AND COMMUNICATIONS
+                            </div>
+                            <div class="job-description">
+                                <p>We are looking for a qualified Senior UI Designer to join our team. The Senior UI Designer will be responsible for desktop responsive web sites and mobile after that.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
-                        <div class="avatar-info">
-                            <h3>
-                                Requirements
-                            </h3>
-                            <p>We are looking for a qualified Senior UI Designer to join our team. The Senior UI Designer will be responsible for desktop responsive web sites and mobile after that.</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="row">
-                    <div class="col-3 col-12-medium text-center">
-                        <div class="avatar-content pb-20">
-                            <div class="avatar-member-bio">
-                                <a href="">
-                                    <h2 class="avatar-member-name">Senior Product Designer</h2>
-                                </a>
-                                <div class="avatar-member-position">
-                                    SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
-                                </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">Senior Product Designer</h2>
+                            </a>
+                            <div class="job-position">
+                                SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
+                            </div>
+                            <div class="job-description">
+                                <p>Our team is looking for a passionate Senior Product Designer to join us in building clean and enjoyable products.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
-                        <div class="avatar-info">
-                            <h3>
-                                Requirements
-                            </h3>
-                            <p>Our team is looking for a passionate Senior Product Designer to join us in building clean and enjoyable products.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-3 col-12-medium text-center">
-                        <div class="avatar-content pb-20">
-                            <div class="avatar-member-bio">
-                                <a href="">
-                                    <h2 class="avatar-member-name">Core / Back-End JavaScript Developer</h2>
-                                </a>
-                                <div class="avatar-member-position">
-                                    REMOTE | SOFTWARE DEVELOPMENT
-                                </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">Core / Back-End JavaScript Developer</h2>
+                            </a>
+                            <div class="job-position">
+                                REMOTE | SOFTWARE DEVELOPMENT
+                            </div>
+                            <div class="job-description">
+                                <p>We are looking for a passionate Backend Node.js Developer to join our Development Team.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
-                        <div class="avatar-info">
-                            <h3>
-                                Requirements
-                            </h3>
-                            <p>We are looking for a passionate Backend Node.js Developer to join our Development Team.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-3 col-12-medium text-center">
-                        <div class="avatar-content pb-20">
-                            <div class="avatar-member-bio">
-                                <a href="">
-                                    <h2 class="avatar-member-name">Decentralized Application Engineer – Blockchain</h2>
-                                </a>
-                                <div class="avatar-member-position">
-                                    REMOTE | SOFTWARE DEVELOPMENT
-                                </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">Decentralized Application Engineer – Blockchain</h2>
+                            </a>
+                            <div class="job-position">
+                                REMOTE | SOFTWARE DEVELOPMENT
+                            </div>
+                            <div class="job-description">
+                                <p>We are looking for a passionate blockchain developer to join our Development Team.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
-                        <div class="avatar-info">
-                            <h3>
-                                Requirements
-                            </h3>
-                            <p>We are looking for a passionate blockchain developer to join our Development Team.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-3 col-12-medium text-center">
-                        <div class="avatar-content pb-20">
-                            <div class="avatar-member-bio">
-                                <a href="">
-                                    <h2 class="avatar-member-name">Full-stack Ethereum dApp Developer</h2>
-                                </a>
-                                <div class="avatar-member-position">
-                                    REMOTE | SOFTWARE DEVELOPMENT
-                                </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">Full-stack Ethereum dApp Developer</h2>
+                            </a>
+                            <div class="job-position">
+                                REMOTE | SOFTWARE DEVELOPMENT
+                            </div>
+                            <div class="job-description">
+                                <p>Our team is looking for a passionate Full-stack Ethereum dApp Developer. The Full-stack Ethereum dApp Developer, will be responsible for coding and modifying dApps running on the Ethereum software, from layout to function and according to developer’s assigned.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
-                        <div class="avatar-info">
-                            <h3>
-                                Requirements
-                            </h3>
-                            <p>Our team is looking for a passionate Full-stack Ethereum dApp Developer. The Full-stack Ethereum dApp Developer, will be responsible for coding and modifying dApps running on the Ethereum software, from layout to function and according to developer’s assigned.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-3 col-12-medium text-center">
-                        <div class="avatar-content pb-20">
-                            <div class="avatar-member-bio">
-                                <a href="">
-                                    <h2 class="avatar-member-name">Blockchain Engineer</h2>
-                                </a>
-                                <div class="avatar-member-position">
-                                    SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
-                                </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">Blockchain Engineer</h2>
+                            </a>
+                            <div class="job-position">
+                                SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
+                            </div>
+                            <div class="job-description">
+                                <p>We are looking for passionate C++ engineers to join our team in Singapore and remote. You will be responsible for helping design, develop, and execute the Ethereum software and other future decentralized projects, and to coordinate with the rest.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
-                        <div class="avatar-info">
-                            <h3>
-                                Requirements
-                            </h3>
-                            <p>We are looking for passionate C++ engineers to join our team in Singapore and remote. You will be responsible for helping design, develop, and execute the Ethereum software and other future decentralized projects, and to coordinate with the rest.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-3 col-12-medium text-center">
-                        <div class="avatar-content pb-20">
-                            <div class="avatar-member-bio">
-                                <a href="">
-                                    <h2 class="avatar-member-name">Junior UX Designer</h2>
-                                </a>
-                                <div class="avatar-member-position">
-                                    SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
-                                </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">Junior UX Designer</h2>
+                            </a>
+                            <div class="job-position">
+                                SINGAPORE & REMOTE | SOFTWARE DEVELOPMENT
+                            </div>
+                            <div class="job-description">
+                                <p>We are looking for several Junior UX Designer to assist in designing web and native applications with a focus on clean beautiful user experiences in our office in Singapore. Be part of a design-centric culture that focuses on solving.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
-                        <div class="avatar-info">
-                            <h3>
-                                Requirements
-                            </h3>
-                            <p>We are looking for several Junior UX Designer to assist in designing web and native applications with a focus on clean beautiful user experiences in our office in Singapore. Be part of a design-centric culture that focuses on solving.</p>
-                        </div>
-                    </div>
                 </div>
-
             </div>
         </div>
     </section>

@@ -7,13 +7,17 @@
 
 // Bootstrap
 @import "~bootstrap-sass/assets/stylesheets/bootstrap";
+@import "blocks/bootstrap/bootstrap";
+@import "blocks/bootstrap/bootstrap-grid";
 
 //Blocks
+@import "blocks/_home";
 @import "blocks/_roadmap";
 
 //Responsive
-@import "responsive/992";
-@import "responsive/768";
+@import "responsive/_1200";
+@import "responsive/_992";
+@import "responsive/_768";
 
 .wrapper {
   &.style2 {

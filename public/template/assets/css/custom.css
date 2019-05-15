@@ -249,22 +249,6 @@ table tr:nth-child(2n) {
     letter-spacing: 2px;
 }
 
-.btn {
-    font-weight: 600;
-    font-size: 11px;
-    padding: 7px 26px;
-    line-height: inherit;
-    color: #b5b9bf;
-    letter-spacing: 1.7px;
-    text-transform: uppercase;
-    border-radius: 2px;
-    background-color: #fff;
-    border-color: #ebebeb;
-    outline: none;
-    -webkit-transition: 0.15s linear;
-    transition: 0.15s linear;
-}
-
 .btn-round {
     border-radius: 10rem;
 }
@@ -1067,11 +1051,6 @@ footer .nav-link {
 .avatar-content:hover img {
     opacity: 0.1;
     transition: opacity .3s ease-in-out;
-}
-
-.testimonials img{
-    width: 271px;
-    height: 271px;
 }
 
 #banner-no-content{

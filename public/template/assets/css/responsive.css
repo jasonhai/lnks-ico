@@ -3,17 +3,6 @@
 		background-size: 50% !important;
 	}
 
-	.col-md-6 {
-		-webkit-box-flex: 0;
-		-webkit-flex: 0 0 50%;
-		-ms-flex: 0 0 50%;
-		flex: 0 0 50%;
-		max-width: 50%;
-		float: left;
-		display: inline-block;
-		width: 50%;
-	}
-
 	.col-left {
 		padding-right: 15px;
 	}

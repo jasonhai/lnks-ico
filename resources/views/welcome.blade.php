@@ -17,79 +17,8 @@
                 </header>
                 <span class="image"><img src="template/images/pic01.png" alt="" /></span>
             </div>
-            <!-- <a href="https://github.com/slvone?tab=repositories" class="goto-next scrolly">Next</a> -->
             <a class="goto-next scrolly">Next</a>
         </section>
-
-    <!-- video -->
-        <!-- <section id="videos" class="pt-40 pb-80">
-            <div class="content">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-2 col-12-medium">
-                            <h4>Video galary</h4>
-                        </div>
-                        <div class="col-10 col-12-medium videos-container m-0">
-                            <div class="swiper-container">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="col-12 mb-10">
-                                            <div class="video-btn-wrapper">
-                                                <div class="bg-img" style="background-image: url(template/images/video-korica.png);" data-overlay="4">
-                                                </div>
-                                                <a class="btn btn-circular btn-primary" href="/template/assets/video/Gifcoin%202.mp4" data-provide="lightbox">
-                                                    <i class="fa fa-play"></i>
-                                                </a>
-                                                <h6>All about the GIFcoin ICO</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="col-12 mb-10">
-                                            <div class="video-btn-wrapper">
-                                                <div class="bg-img" style="background-image: url(template/images/video1.png);" data-overlay="4">
-                                                </div>
-                                                <a class="btn btn-circular btn-primary" href="/template/assets/video/Gifcoin%202.mp4" data-provide="lightbox">
-                                                    <i class="fa fa-play"></i>
-                                                </a>
-                                                <h6>How to Secure a Steady Crypto Passive..</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="col-12 mb-10">
-                                            <div class="video-btn-wrapper">
-                                                <div class="bg-img" style="background-image: url(template/images/video-korica.png);" data-overlay="4">
-                                                </div>
-                                                <a class="btn btn-circular btn-primary" href="/template/assets/video/Gifcoin%202.mp4" data-provide="lightbox">
-                                                    <i class="fa fa-play"></i>
-                                                </a>
-                                                <h6>Why to Invest and Q&A</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="col-12 mb-10">
-                                            <div class="video-btn-wrapper">
-                                                <div class="bg-img" style="background-image: url(template/images/video1.png);" data-overlay="4">
-                                                </div>
-                                                <a class="btn btn-circular btn-primary" href="/template/assets/video/Gifcoin%202.mp4" data-provide="lightbox">
-                                                    <i class="fa fa-play"></i>
-                                                </a>
-                                                <h6>What is GIFcoin</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-button-next"></div>
-                                <div class="swiper-button-prev"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <a href="#two" class="goto-next scrolly">Next</a>
-        </section> -->
 
     <!-- whatis -->
         <section id="whatis" class="pt-40 pb-90">
@@ -100,7 +29,7 @@
                         <p class="lead mb-0 pb-0">A new way of holding value</p>
                     </header>
                     <div class="row mb-20">
-                        <div class="col-12 col-md-12 text-justify custom-bbkg pt-40">
+                        <div class="col-md-12 text-justify custom-bbkg pt-40">
 
                             <p class="lead">SLVone is a decentralized silver platform, where the users from everywhere on the planet can mint, trade and redeem silver bullion. </p>
                             <p class="lead">We strive to build a community-driven platform by, and for the users following the success and precedents of SLVone.</p>
@@ -118,10 +47,10 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-4 col-12-medium -mt-50">
+                        <div class="col-md-4 -mt-50">
                             <img src="template/images/slv-logo.jpg" style="max-width:100%;">
                         </div>
-                        <div class="col-8 col-12-medium">
+                        <div class="col-md-8">
                             <table class="home-table">
                                 <tbody><tr>
                                         <th>Token name</th>
@@ -174,10 +103,10 @@
             <div class="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-7 whitepaper-btn">
+                        <div class="col-md-7 whitepaper-btn">
                             <h4>Do you want to know more?</h4>
                         </div>
-                        <div class="col-5 whitepaper-btn m-0">
+                        <div class="col-md-5 whitepaper-btn m-0">
                             <a class="change-btn-res btn btn-lg btn-round btn-white" href="/GifCoin-WhitePaper.pdf">Read the Whitepaper</a>
                             <a href="/01.Whitepaper_Original_version.pdf">
                                 <div class="div_whitepepar">
@@ -198,7 +127,7 @@
                         <h2>TESTIMONIALS<span class="background_heading_2">TESTIMONIALS</span></h2>
                     </header>
                     <div class="row">
-                        <div class="col-3 mb-20 team-tile">
+                        <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
                                     <img src="template/images/slv-logo.jpg">
@@ -244,7 +173,7 @@
                             </div>
                         </div>
                         <!-- End member -->
-                        <div class="col-3 mb-20 team-tile">
+                        <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
                                     <img src="template/images/testimonials/vladimir.jpeg">
@@ -290,7 +219,7 @@
                             </div>
                         </div>
                         <!-- End member -->
-                        <div class="col-3 mb-20 team-tile">
+                        <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
                                     <img src="template/images/testimonials/shy-yeo.jpeg">
@@ -336,7 +265,7 @@
                             </div>
                         </div>
                         <!-- End member -->
-                        <div class="col-3 mb-20 team-tile">
+                        <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
                                     <img src="template/images/slv-logo.jpg">
@@ -383,7 +312,7 @@
                         </div>
                         <!-- End member -->
 
-                        <div class="col-3 mb-20 team-tile">
+                        <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
                                     <img src="template/images/testimonials/yanstavisski.jpeg">
@@ -429,7 +358,7 @@
                             </div>
                         </div>
 
-                        <div class="col-3 mb-20 team-tile">
+                        <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
                                     <img src="template/images/testimonials/thsun.jpeg">
@@ -478,72 +407,6 @@
                 </div>
             </div>
         </section>
-
-        <!-- How it work section -->
-        <!-- <section class="howitwork_section">
-            <div class="content">
-                <div class="container">
-                    <header class="text-center pt-60 headbg2 section-header">
-                        <small>Success Story</small>
-                        <h2>We Can Do It Together<span class="background_heading_2">We Can Do It Together</span></h2>
-                        <hr>
-                        <p class="lead mb-0 pb-0">We waited until we could do it right. Then we did! It's time to grow together.</p>
-                    </header>
-
-                    <div class="row">
-                        <div class="col-3 col-12-medium text-center">
-                            <div class="avatar-content pb-20">
-                                <a href="">
-                                    <img src="template/images/brian.jpg">
-                                </a>
-                                <div class="avatar-member-bio">
-                                    <a href="">
-                                        <h2 class="avatar-member-name">Brian Vo</h2>
-                                    </a>
-                                    <div class="avatar-member-position">
-                                        Executive Board Advisor
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-9 col-12-medium">
-                            <div class="avatar-info">
-                                <h2>
-                                    Background
-                                </h2>
-                                <p>I am blockchain researcher and business strategist with a passion for financial empowerment. I am also passionate about the intersection of finance and technology.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-3 col-12-medium text-center">
-                            <div class="avatar-content pb-20">
-                                <a href="">
-                                    <img src="template/images/jason.png">
-                                </a>
-                                <div class="avatar-member-bio">
-                                    <a href="">
-                                        <h2 class="avatar-member-name">Jason Hai</h2>
-                                    </a>
-                                    <div class="avatar-member-position">
-                                        Senior LAMP Stack
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-9 col-12-medium">
-                            <div class="avatar-info">
-                                <h2>
-                                    Background
-                                </h2>
-                                <p>Jason Hai has a lot of experience in PHP and Server. Technology is always change, He thinks that blockchain will be the best tool for any transactions in the near future.</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-        </section> -->
 
     <!-- Five -->
     @include('partials.subcribe')
