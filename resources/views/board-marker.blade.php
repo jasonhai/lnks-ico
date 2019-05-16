@@ -30,7 +30,7 @@
                 <div class="row">
                     <div class="col-3 col-12-medium text-center">
                         <div class="avatar-content pb-20">
-                            <a href="">
+                            <a href="https://www.linkedin.com/in/brian~vo/">
                                 <img src="template/images/brian.jpg">
                             </a>
                             <div class="avatar-member-bio">
@@ -38,7 +38,7 @@
                                     <h2 class="avatar-member-name">Brian Vo</h2>
                                 </a>
                                 <div class="avatar-member-position">
-                                    Executive Board Advisor
+                                    CHIEF EXECUTIVE OFFICER
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                 <div class="row">
                     <div class="col-3 col-12-medium text-center">
                         <div class="avatar-content pb-20">
-                            <a href="">
+                            <a href="https://www.linkedin.com/in/phan-minh-hai-85a34a57/">
                                 <img src="template/images/jason.png">
                             </a>
                             <div class="avatar-member-bio">
@@ -63,7 +63,7 @@
                                     <h2 class="avatar-member-name">Jason Hai</h2>
                                 </a>
                                 <div class="avatar-member-position">
-                                    Senior LAMP Stack
+                                    CHIEF TECHNOLOGY OFFICER
                                 </div>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
                 <div class="row">
                     <div class="col-3 col-12-medium text-center">
                         <div class="avatar-content pb-20">
-                            <a href="">
+                            <a href="https://github.com/ethlink">
                                 <img src="template/images/daniel.jpg">
                             </a>
                             <div class="avatar-member-bio">
@@ -88,7 +88,7 @@
                                     <h2 class="avatar-member-name">Daniel Mendoza</h2>
                                 </a>
                                 <div class="avatar-member-position">
-                                    CEO
+                                    FOUNDER
                                 </div>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                 <div class="row">
                     <div class="col-3 col-12-medium text-center">
                         <div class="avatar-content pb-20">
-                            <a href="">
+                            <a href="https://github.com/superkarolis">
                                 <img src="template/images/kalos.jpg">
                             </a>
                             <div class="avatar-member-bio">

@@ -10,7 +10,7 @@
     <section id="banner">
         <div class="content">
             <header>
-                <h2>Welcome to Roap Map</h2>
+                <h2>Welcome to Roadmap</h2>
             </header>
         </div>
         <a class="goto-next scrolly">Next</a>
