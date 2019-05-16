@@ -896,6 +896,50 @@ footer .nav-link {
     text-rendering: auto;
 }
 
+.custom-file-upload {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 0.375rem 0.75rem !important;
+    border-radius: 4px;
+    margin-top: 0px;
+    font-weight: 400;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+    border: 1px solid #a7a5a5;
+    display: inline-block !important;
+}
+
+.custom-file-upload i {
+    margin-right: 5px;
+}
+
+.uploads-file img {
+    padding: 6px 0px;
+    height: auto;
+    max-height: 100px;
+    display: block;
+}
+
+.hidden-this {
+    background: transparent !important;
+    color: transparent !important;
+    border: 0 transparent !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
+    height: 0 !important;
+    width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    position: absolute;
+    clip: rect(0,0,0,0);
+}
+
+.notification1,
+.notification2 {
+    display: none;
+}
+
 /*Add ons*/
 
 .team-tile-content {
