@@ -50,4 +50,16 @@
       min-width: 50%;
     }
   }
+
+  .testimonials.pt-120,
+  .howitwork_section header.pt-60 {
+      padding-top: 0 !important;
+  }
+
+  .smart-contract,
+  .road-map {
+    &.pt-120 {
+      padding-top: 50px !important;
+    }
+  }
 }

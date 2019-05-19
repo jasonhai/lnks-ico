@@ -21,7 +21,6 @@
         <script src="template/assets/js/browser.min.js"></script>
         <script src="template/assets/js/breakpoints.min.js"></script>
         <script src="template/assets/js/util.js"></script>
-        <script src="template/assets/js/swiper.min.js"></script>
         <script src="template/assets/js/token.js"></script>
         <script src="template/assets/js/upload.js"></script>
 

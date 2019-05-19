@@ -15,39 +15,6 @@
 	    }
 	});
 
-
-	var swiper = new Swiper('.swiper-container', {
-      slidesPerView: 3,
-      spaceBetween: 30,
-      loop: true,
-      pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-      },
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-      breakpoints: {
-	    // when window width is <= 320px
-	    320: {
-	      slidesPerView: 1,
-	      spaceBetween: 10
-	    },
-	    // when window width is <= 480px
-	    480: {
-	      slidesPerView: 2,
-	      spaceBetween: 20
-	    },
-	    // when window width is <= 640px
-	    640: {
-	      slidesPerView: 3,
-	      spaceBetween: 30
-	    }
-	  }
-    });
-
-
 	var	$window = $(window),
 		$body = $('body');
 
@@ -304,5 +271,27 @@
     		$(this).closest('.team-tile').removeClass('act');
     	}
     });
+
+	$(function(){
+		// this will get the full URL at the address bar
+		var url = window.location.href;
+
+		// passes on every "a" tag for desktop
+		$(".topbar-nav li a").each(function() {
+			// checks if its the same on the address bar
+			if(url == (this.href)) {
+				$(this).closest("li").addClass("active");
+			}
+		});
+
+		// passes on every "a" tag for mobile
+		$("#navPanel nav a").each(function() {
+			// checks if its the same on the address bar
+			if(url == (this.href)) {
+				$(this).addClass("active");
+			}
+		});
+
+	});
 
 })(jQuery);

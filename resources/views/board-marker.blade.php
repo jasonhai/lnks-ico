@@ -7,15 +7,6 @@
 @stop
 
 @section('content')
-    <section id="banner">
-        <div class="content">
-            <header>
-                <h2>Welcome to Board Of Makers</h2>
-            </header>
-        </div>
-        <a class="goto-next scrolly">Next</a>
-    </section>
-
     <!-- How it work section -->
     <section class="howitwork_section">
         <div class="content">
@@ -28,7 +19,7 @@
                 </header>
 
                 <div class="row">
-                    <div class="col-3 col-12-medium text-center">
+                    <div class="col-md-3 text-center">
                         <div class="avatar-content pb-20">
                             <a href="https://www.linkedin.com/in/brian~vo/">
                                 <img src="template/images/brian.jpg">
@@ -43,7 +34,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
+                    <div class="col-md-9">
                         <div class="avatar-info">
                             <h2>
                                 Background
@@ -53,7 +44,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-3 col-12-medium text-center">
+                    <div class="col-md-3 text-center">
                         <div class="avatar-content pb-20">
                             <a href="https://www.linkedin.com/in/phan-minh-hai-85a34a57/">
                                 <img src="template/images/jason.png">
@@ -68,7 +59,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
+                    <div class="col-md-9">
                         <div class="avatar-info">
                             <h2>
                                 Background
@@ -78,7 +69,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-3 col-12-medium text-center">
+                    <div class="col-md-3 text-center">
                         <div class="avatar-content pb-20">
                             <a href="https://github.com/ethlink">
                                 <img src="template/images/daniel.jpg">
@@ -93,7 +84,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
+                    <div class="col-md-9">
                         <div class="avatar-info">
                             <h2>
                                 Background
@@ -103,7 +94,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-3 col-12-medium text-center">
+                    <div class="col-md-3 text-center">
                         <div class="avatar-content pb-20">
                             <a href="https://github.com/superkarolis">
                                 <img src="template/images/kalos.jpg">
@@ -118,7 +109,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-9 col-12-medium">
+                    <div class="col-md-9">
                         <div class="avatar-info">
                             <h2>
                                 Background

@@ -1640,9 +1640,10 @@ input::-moz-focus-inner {
 						#header nav ul li a:not(.button):before, #header nav ul li span:not(.button):before {
 							margin-right: 0.5em;
 						}
-
-					#header nav ul li.active > a, #header nav ul li.active > span {
-						color: #e44c65;
+					#navPanel nav a.active,
+					#header nav ul li.active > a,
+					#header nav ul li.active > span {
+						color: #e44c65 !important;
 					}
 
 					#header nav ul li > ul {

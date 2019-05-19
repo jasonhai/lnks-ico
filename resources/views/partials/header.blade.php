@@ -1,4 +1,4 @@
-<header id="header" class="topbar">
+<header id="header" class="topbar {{ Request::is('/')?'home':'page' }}">
     <h1 id="logo"><a class="topbar-brand" href="{{ url('/') }}"><img src="template/images/lnks/logo.png" alt="Home"></a></h1>
     <nav id="nav" class="topbar-nav">
         <ul>

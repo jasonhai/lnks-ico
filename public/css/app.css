@@ -1994,7 +1994,7 @@ pre code {
 }
 
 .row:before, .row:after {
-  display: table;
+  display: inline-block;
   content: " ";
 }
 
@@ -4589,7 +4589,7 @@ tbody.collapse.in {
 }
 
 .nav:before, .nav:after {
-  display: table;
+  display: inline-block;
   content: " ";
 }
 
@@ -22595,7 +22595,7 @@ html {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1024px) {
+@media (min-width: 992px) and (max-width: 1080px) {
   .testimonials .team-tile {
     min-width: 33%;
   }
@@ -22643,12 +22643,26 @@ html {
   .testimonials .team-tile {
     min-width: 50%;
   }
+  .testimonials.pt-120,
+  .howitwork_section header.pt-60 {
+    padding-top: 0 !important;
+  }
+  .smart-contract.pt-120,
+  .road-map.pt-120 {
+    padding-top: 50px !important;
+  }
 }
 
 @media screen and (max-width: 767px) {
   .subribe-section .btn-submit-subcribe .btn-general {
     margin-top: 10px;
     width: 100%;
+  }
+  section.seenon_section div.team-tile {
+    min-width: 100%;
+  }
+  .howitwork_section header.pt-60 {
+    margin-top: 0 !important;
   }
 }
 

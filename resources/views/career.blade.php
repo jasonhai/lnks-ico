@@ -8,19 +8,6 @@
 
 @section('content')
 <!-- Banner -->
-    <section id="banner">
-        <div class="content">
-            <header>
-                <h2>Jobs</h2>
-                <p>Do you want to join SLV Crew and be a part of a great diversified team? <br>
-                Look through the list of currently available jobs at SLV and apply!</p>
-            </header>
-        </div>
-        <a class="goto-next scrolly">Next</a>
-    </section>
-
-   
-
     <!-- How it work section -->
     <section class="howitwork_section">
         <div class="content">
