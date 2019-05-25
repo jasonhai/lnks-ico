@@ -26,6 +26,7 @@ Route::get('/road-map', 'FrontendController@roadMap');
 Route::get('/extra-information', 'FrontendController@extraInformation');
 Route::get('/board-of-markers', 'FrontendController@boardOfMarkers');
 Route::get('/testimonials', 'FrontendController@testimonials');
+Route::get('/documents', 'FrontendController@documents');
 
 
 Route::get('/login', function () { return view('login'); });

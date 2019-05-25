@@ -123,4 +123,9 @@ class FrontendController extends Controller
     {
         return view('testimonials');
     }
+
+    public function documents()
+    {
+        return view('documents');
+    }
 }
