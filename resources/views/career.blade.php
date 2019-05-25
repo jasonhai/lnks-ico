@@ -7,7 +7,18 @@
 @stop
 
 @section('content')
-<!-- Banner -->
+    <!-- Banner -->
+    <section id="banner">
+        <div class="content">
+            <header>
+                <h2>Jobs</h2>
+                <p>Do you want to join SLV Crew and be a part of a great diversified team? <br>
+                    Look through the list of currently available jobs at SLV and apply!</p>
+            </header>
+        </div>
+        <a class="goto-next scrolly">Next</a>
+    </section>
+
     <!-- How it work section -->
     <section class="howitwork_section">
         <div class="content">
@@ -108,6 +119,20 @@
                             </div>
                             <div class="job-description">
                                 <p>We are looking for several Junior UX Designer to assist in designing web and native applications with a focus on clean beautiful user experiences in our office in Singapore. Be part of a design-centric culture that focuses on solving…</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 mb-40">
+                        <div class="job-content pb-20">
+                            <a href="#">
+                                <h2 class="job-name m-0">What other positions are you considering?</h2>
+                            </a>
+                            <div class="job-position">
+                                SINGAPORE & REMOTE I OTHER POSITIONS
+                            </div>
+                            <div class="job-description">
+                                <div>Join SLV.one and our mission to create a worldwide digital solution.</div>
+                                <p>Please send your CV or any documents, a cover email telling us more about yourself, and a portfolio (if applicable) to support@slv.one</p>
                             </div>
                         </div>
                     </div>

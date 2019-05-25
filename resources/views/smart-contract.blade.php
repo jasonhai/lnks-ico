@@ -7,6 +7,14 @@
 @stop
 
 @section('content')
+    <section id="banner">
+        <div class="content">
+            <header>
+                <h2>Welcome to Smart Contract</h2>
+            </header>
+        </div>
+        <a class="goto-next scrolly">Next</a>
+    </section>
     <section class="smart-contract pt-120">
         <div class="content">
             <div class="container">

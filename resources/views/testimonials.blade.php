@@ -7,13 +7,25 @@
 @stop
 
 @section('content')
+    <!-- Banner -->
+    <section id="banner">
+        <div class="content">
+            <header>
+                <h2>Testimonials</h2>
+                <p>What people say about Decentralized Silver Market and Silverlink Platform <br>
+                    What people say about Tokenizing Silver on Blockchain and Silverlink Platform</p>
+            </header>
+        </div>
+        <a class="goto-next scrolly">Next</a>
+    </section>
+
     <!-- Seen on section -->
     <section class="seenon_section bg-grey testimonials pt-120">
         <div class="content">
             <div class="container">
                 <div class="title-block">
-                    <h2 class="section-title">
-                        <span>1. Big Exchanges</span>
+                    <h2 class="section-title text-center">
+                        <span>Big Exchanges</span>
                     </h2>
                 </div>
                 <div class="row">
@@ -273,15 +285,15 @@
                     </div>
                 </div>
                 <div class="title-block">
-                    <h2 class="section-title">
-                        <span>2. Media & Marketing Experts</span>
+                    <h2 class="section-title text-center">
+                        <span>Media & Marketing Experts</span>
                     </h2>
                 </div>
                 <div class="row">
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Shalin-Verma.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -327,7 +339,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Francis-Ifie.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -373,7 +385,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Ayodeji-Israel-Awosika.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -417,7 +429,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Stewart-J.-Severino.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -503,7 +515,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Sead-Fadilpašić.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -545,7 +557,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Daniel-Mitchell.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -586,15 +598,15 @@
                     <!-- End member -->
                 </div>
                 <div class="title-block">
-                    <h2 class="section-title">
-                        <span>3. Tech Companies</span>
+                    <h2 class="section-title text-center">
+                        <span>Tech Companies</span>
                     </h2>
                 </div>
                 <div class="row">
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Jesus-G.-Bonilla.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -636,7 +648,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Nitin-Gaur.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -678,7 +690,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Hudson-Sutherland.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -722,7 +734,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Dr.-Fenglian-Xu.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -766,7 +778,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Bo-Yang.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -808,7 +820,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Dean-Steinbeck.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -849,15 +861,15 @@
                     <!-- End member -->
                 </div>
                 <div class="title-block">
-                    <h2 class="section-title">
-                        <span>4. Blockchain Companies</span>
+                    <h2 class="section-title text-center">
+                        <span>Blockchain Companies</span>
                     </h2>
                 </div>
                 <div class="row">
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Abraham-Choi.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -899,7 +911,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Alberto-Guerrero-Montilla.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -941,7 +953,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Paul-Christian-Espiritu.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -983,7 +995,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Julie-Maupin.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1027,7 +1039,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Randall-Lee-Pires.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1069,7 +1081,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Geoffrey-Cher.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1111,7 +1123,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Gyanesh-Maheshwar.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1154,7 +1166,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Ryan-Colby.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1198,7 +1210,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Prashant-Nagawade.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1282,7 +1294,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Mark-Schmidt.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1324,7 +1336,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Joshua-Marriage.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1408,7 +1420,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Chai-Shepherd.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1450,7 +1462,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Anya-Nova.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1492,7 +1504,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/John-Anthony-Pecson.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1534,7 +1546,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Dimitar-Dimitrakiev.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1576,7 +1588,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Adam-Abrams.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1618,7 +1630,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Huiling-Xie.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1662,7 +1674,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Steve-Lee.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1706,7 +1718,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Paul-Snow.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1747,8 +1759,8 @@
                     <!-- End member -->
                 </div>
                 <div class="title-block">
-                    <h2 class="section-title">
-                        <span>5. Others</span>
+                    <h2 class="section-title text-center">
+                        <span>Others</span>
                     </h2>
                 </div>
                 <div class="row">
@@ -1799,7 +1811,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Garvit-Goel.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1843,7 +1855,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Edmund-Ng.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1887,7 +1899,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/George-Wong.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1931,7 +1943,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Alex-B.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1979,7 +1991,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Eli-Bordun.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2021,7 +2033,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Sharon-Henley.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2063,7 +2075,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Adam-Koltun.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2105,7 +2117,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Rudresh-Solanki.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2149,7 +2161,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Jose-Urdaneta.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2193,7 +2205,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Rakesh-Khamkar.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2279,7 +2291,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Akshat-Doshi.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2325,7 +2337,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Himanshu-Goyal.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2367,7 +2379,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Afrikanus-Kofi.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2411,7 +2423,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Adarsh-S.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2453,7 +2465,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Julius-Michael.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2495,7 +2507,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Pekka-Kelkka.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2537,7 +2549,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Ernest-M.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2581,7 +2593,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Leandro-França-de-Mello.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2623,7 +2635,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Doug-Miller.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2665,7 +2677,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Susheel-Pathania.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2707,7 +2719,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Nikolay-Shkilev.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2749,7 +2761,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Peter-Gregory.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2791,7 +2803,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Wei-Liang.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2833,7 +2845,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Kyle-Geralds.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2923,7 +2935,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Mark-Travis.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2965,7 +2977,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Nehemiah-Isamotu.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -3007,7 +3019,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Bradley-Wu.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -3051,7 +3063,7 @@
                     <div class="col-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/John-Njui-Kirumba.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
