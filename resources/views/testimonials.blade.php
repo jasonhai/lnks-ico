@@ -29,7 +29,7 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -39,8 +39,8 @@
                                     <a href="https://www.linkedin.com/in/billshihara/" target="_blank">
                                         <h3 class="team-member-name">Bill Shihara</h3>
                                     </a>
-                                    <div class="team-member-meta"> 
-                                        <span class="team-member-title">CEO at Bittrex</span> 
+                                    <div class="team-member-meta">
+                                        <span class="team-member-title">CEO at Bittrex</span>
                                         <span class="team-member-location">Greater Seattle Area</span>
                                     </div>
                                 </header>
@@ -49,9 +49,9 @@
                                 </div>
                                 <span class="team-read-more">Read more</span>
                             </div>
-                            <div class="team-member-card"> 
+                            <div class="team-member-card">
                                 <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i> 
+                                    <i class="icon alt fa-close"></i>
                                 </button>
                                 <div class="team-member-card-inner">
                                     <div class="team-member-card-text">
@@ -71,17 +71,17 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/testimonials/vladimir.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/vlprosvirkin/" target="_blank"> 
+                                    <a href="https://www.linkedin.com/in/vlprosvirkin/" target="_blank">
                                         <h3 class="team-member-name">Vladimir Prosvirkin</h3>
                                     </a>
-                                    <div class="team-member-meta"> 
+                                    <div class="team-member-meta">
                                         <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span>
                                         <span class="team-member-location">Moscow, Russian Federation</span>
                                     </div>
@@ -91,16 +91,16 @@
                                 </div>
                                 <span class="team-read-more">Read more</span>
                             </div>
-                            <div class="team-member-card"> 
+                            <div class="team-member-card">
                                 <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i> 
+                                    <i class="icon alt fa-close"></i>
                                 </button>
                                 <div class="team-member-card-inner">
                                     <div class="team-member-card-text">
                                         <header class="team-member-header">
                                             <h3 class="team-member-name">Vladimir Prosvirkin</h3>
-                                            <div class="team-member-meta"> 
-                                                <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span> 
+                                            <div class="team-member-meta">
+                                                <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span>
                                                 <span class="team-member-location">Moscow, Russian Federation</span>
                                             </div>
                                         </header>
@@ -113,18 +113,18 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/testimonials/shy-yeo.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/ladybossz/" target="_blank"> 
+                                    <a href="https://www.linkedin.com/in/ladybossz/" target="_blank">
                                         <h3 class="team-member-name">Shy Yeo</h3>
                                     </a>
-                                    <div class="team-member-meta"> 
-                                        <span class="team-member-title">Listing Guide Manager at Bithumb</span> 
+                                    <div class="team-member-meta">
+                                        <span class="team-member-title">Listing Guide Manager at Bithumb</span>
                                         <span class="team-member-location">Singapore</span>
                                     </div>
                                 </header>
@@ -133,16 +133,16 @@
                                 </div>
                                 <span class="team-read-more">Read more</span>
                             </div>
-                            <div class="team-member-card"> 
+                            <div class="team-member-card">
                                 <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i> 
+                                    <i class="icon alt fa-close"></i>
                                 </button>
                                 <div class="team-member-card-inner">
                                     <div class="team-member-card-text">
                                         <header class="team-member-header">
                                             <h3 class="team-member-name">Shy Yeo</h3>
-                                            <div class="team-member-meta"> 
-                                                <span class="team-member-title">Listing Guide Manager at Bithumb</span> 
+                                            <div class="team-member-meta">
+                                                <span class="team-member-title">Listing Guide Manager at Bithumb</span>
                                                 <span class="team-member-location">Singapore</span>
                                             </div>
                                         </header>
@@ -155,20 +155,20 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/sung-nam-0375908/" target="_blank"> 
+                                    <a href="https://www.linkedin.com/in/sung-nam-0375908/" target="_blank">
                                         <h3 class="team-member-name">Sung Nam</h3>
                                     </a>
-                                    <div class="team-member-meta"> 
-                                        <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span> 
-                                        <span class="team-member-location"> 
-                                            <span class="location-name location-hong-kong">Korea</span> 
+                                    <div class="team-member-meta">
+                                        <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span>
+                                        <span class="team-member-location">
+                                            <span class="location-name location-hong-kong">Korea</span>
                                         </span>
                                     </div>
                                 </header>
@@ -177,16 +177,16 @@
                                 </div>
                                 <span class="team-read-more">Read more</span>
                             </div>
-                            <div class="team-member-card"> 
+                            <div class="team-member-card">
                                 <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i> 
+                                    <i class="icon alt fa-close"></i>
                                 </button>
                                 <div class="team-member-card-inner">
                                     <div class="team-member-card-text">
                                         <header class="team-member-header">
                                             <h3 class="team-member-name">Sung Nam</h3>
-                                            <div class="team-member-meta"> 
-                                                <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span> 
+                                            <div class="team-member-meta">
+                                                <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span>
                                                 <span class="team-member-location">Korea</span>
                                             </div>
                                         </header>
@@ -200,18 +200,18 @@
                     </div>
                     <!-- End member -->
 
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/testimonials/yanstavisski.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/yanstavisski/" target="_blank"> 
+                                    <a href="https://www.linkedin.com/in/yanstavisski/" target="_blank">
                                         <h3 class="team-member-name">Yan Stavisski</h3>
                                     </a>
-                                    <div class="team-member-meta"> 
-                                        <span class="team-member-title">US Operation at LATOKEN</span> 
+                                    <div class="team-member-meta">
+                                        <span class="team-member-title">US Operation at LATOKEN</span>
                                         <span class="team-member-location">San Francisco Bay Area</span>
                                     </div>
                                 </header>
@@ -220,16 +220,16 @@
                                 </div>
                                 <span class="team-read-more">Read more</span>
                             </div>
-                            <div class="team-member-card"> 
+                            <div class="team-member-card">
                                 <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i> 
+                                    <i class="icon alt fa-close"></i>
                                 </button>
                                 <div class="team-member-card-inner">
                                     <div class="team-member-card-text">
                                         <header class="team-member-header">
                                             <h3 class="team-member-name">Yan Stavisski</h3>
-                                            <div class="team-member-meta"> 
-                                                <span class="team-member-title">US Operation at LATOKEN</span> 
+                                            <div class="team-member-meta">
+                                                <span class="team-member-title">US Operation at LATOKEN</span>
                                                 <span class="team-member-location">San Francisco Bay Area</span>
                                             </div>
                                         </header>
@@ -242,18 +242,18 @@
                         </div>
                     </div>
 
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/testimonials/thsun.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/thsun/" target="_blank"> 
+                                    <a href="https://www.linkedin.com/in/thsun/" target="_blank">
                                         <h3 class="team-member-name">Ben Sun</h3>
                                     </a>
-                                    <div class="team-member-meta"> 
-                                        <span class="team-member-title">Community Manager at OKEx</span> 
+                                    <div class="team-member-meta">
+                                        <span class="team-member-title">Community Manager at OKEx</span>
                                         <span class="team-member-location">Taipei City, Taiwan</span>
                                     </div>
                                 </header>
@@ -262,16 +262,16 @@
                                 </div>
                                 <span class="team-read-more">Read more</span>
                             </div>
-                            <div class="team-member-card"> 
+                            <div class="team-member-card">
                                 <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i> 
+                                    <i class="icon alt fa-close"></i>
                                 </button>
                                 <div class="team-member-card-inner">
                                     <div class="team-member-card-text">
                                         <header class="team-member-header">
                                             <h3 class="team-member-name">Ben Sun</h3>
-                                            <div class="team-member-meta"> 
-                                                <span class="team-member-title">Community Manager at OKEx</span> 
+                                            <div class="team-member-meta">
+                                                <span class="team-member-title">Community Manager at OKEx</span>
                                                 <span class="team-member-location">Taipei City, Taiwan</span>
                                             </div>
                                         </header>
@@ -290,7 +290,7 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Shalin-Verma.jpeg">
@@ -336,7 +336,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Francis-Ifie.jpeg">
@@ -382,7 +382,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Ayodeji-Israel-Awosika.jpeg">
@@ -426,7 +426,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Stewart-J.-Severino.jpeg">
@@ -468,7 +468,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -512,7 +512,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Sead-Fadilpašić.jpeg">
@@ -554,7 +554,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Daniel-Mitchell.jpeg">
@@ -603,7 +603,7 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Jesus-G.-Bonilla.jpeg">
@@ -645,7 +645,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Nitin-Gaur.jpeg">
@@ -687,7 +687,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Hudson-Sutherland.jpeg">
@@ -731,7 +731,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Dr.-Fenglian-Xu.jpeg">
@@ -775,7 +775,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Bo-Yang.jpeg">
@@ -817,7 +817,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Dean-Steinbeck.jpeg">
@@ -866,7 +866,7 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Abraham-Choi.jpeg">
@@ -908,7 +908,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Alberto-Guerrero-Montilla.jpeg">
@@ -950,7 +950,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Paul-Christian-Espiritu.jpeg">
@@ -992,7 +992,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Julie-Maupin.jpeg">
@@ -1036,7 +1036,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Randall-Lee-Pires.jpeg">
@@ -1078,7 +1078,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Geoffrey-Cher.jpeg">
@@ -1120,7 +1120,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Gyanesh-Maheshwar.jpeg">
@@ -1163,7 +1163,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Ryan-Colby.jpeg">
@@ -1207,7 +1207,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Prashant-Nagawade.jpeg">
@@ -1249,7 +1249,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -1291,7 +1291,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Mark-Schmidt.jpeg">
@@ -1333,7 +1333,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Joshua-Marriage.jpeg">
@@ -1375,7 +1375,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -1417,7 +1417,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Chai-Shepherd.jpeg">
@@ -1459,7 +1459,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Anya-Nova.jpeg">
@@ -1501,7 +1501,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/John-Anthony-Pecson.jpeg">
@@ -1543,7 +1543,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Dimitar-Dimitrakiev.jpeg">
@@ -1585,7 +1585,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Adam-Abrams.jpeg">
@@ -1627,7 +1627,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Huiling-Xie.jpeg">
@@ -1671,7 +1671,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Steve-Lee.jpeg">
@@ -1715,7 +1715,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Paul-Snow.jpeg">
@@ -1764,7 +1764,7 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -1808,7 +1808,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Garvit-Goel.jpeg">
@@ -1852,7 +1852,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Edmund-Ng.jpeg">
@@ -1896,7 +1896,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/George-Wong.jpeg">
@@ -1940,7 +1940,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Alex-B.jpeg">
@@ -1988,7 +1988,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Eli-Bordun.jpeg">
@@ -2030,7 +2030,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Sharon-Henley.jpeg">
@@ -2072,7 +2072,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Adam-Koltun.jpeg">
@@ -2114,7 +2114,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Rudresh-Solanki.jpeg">
@@ -2158,7 +2158,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Jose-Urdaneta.jpeg">
@@ -2202,7 +2202,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Rakesh-Khamkar.jpeg">
@@ -2244,7 +2244,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -2288,7 +2288,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Akshat-Doshi.jpeg">
@@ -2334,7 +2334,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Himanshu-Goyal.jpeg">
@@ -2376,7 +2376,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Afrikanus-Kofi.jpeg">
@@ -2420,7 +2420,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Adarsh-S.jpeg">
@@ -2462,7 +2462,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Julius-Michael.jpeg">
@@ -2504,7 +2504,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Pekka-Kelkka.jpeg">
@@ -2546,7 +2546,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Ernest-M.jpeg">
@@ -2590,7 +2590,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Leandro-França-de-Mello.jpeg">
@@ -2632,7 +2632,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Doug-Miller.jpeg">
@@ -2674,7 +2674,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Susheel-Pathania.jpeg">
@@ -2716,7 +2716,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Nikolay-Shkilev.jpeg">
@@ -2758,7 +2758,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Peter-Gregory.jpeg">
@@ -2800,7 +2800,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Wei-Liang.jpeg">
@@ -2842,7 +2842,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Kyle-Geralds.jpeg">
@@ -2886,7 +2886,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -2932,7 +2932,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Mark-Travis.jpeg">
@@ -2974,7 +2974,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Nehemiah-Isamotu.jpeg">
@@ -3016,7 +3016,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/Bradley-Wu.jpeg">
@@ -3060,7 +3060,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-3 mb-20 team-tile">
+                    <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/John-Njui-Kirumba.jpeg">
@@ -3111,7 +3111,7 @@
         </div>
     </section>
 
-    <!-- Footer --> 
-    @include('partials.footer')   
-    
+    <!-- Footer -->
+    @include('partials.footer')
+
 @stop

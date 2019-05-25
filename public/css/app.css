@@ -1994,7 +1994,7 @@ pre code {
 }
 
 .row:before, .row:after {
-  display: inline-block;
+  display: table;
   content: " ";
 }
 
@@ -4589,7 +4589,7 @@ tbody.collapse.in {
 }
 
 .nav:before, .nav:after {
-  display: inline-block;
+  display: table;
   content: " ";
 }
 
@@ -22275,6 +22275,12 @@ html {
   letter-spacing: .25em;
   font-weight: 700;
   color: #000;
+}
+
+.doccument .doc-title {
+  color: #fff;
+  background: #3f9aec;
+  padding: 0 10px;
 }
 
 .road-map {
