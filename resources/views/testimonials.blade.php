@@ -32,7 +32,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/bill-shihara.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
