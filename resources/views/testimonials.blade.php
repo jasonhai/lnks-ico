@@ -471,7 +471,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Matthew-Gertler.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1252,7 +1252,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Prafulla-Vyawahare.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1378,7 +1378,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Michael-Anthony.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2247,7 +2247,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Rhonda-Eldridge.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2889,7 +2889,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Dhana.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
