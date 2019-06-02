@@ -901,7 +901,7 @@ input::-moz-focus-inner {
 		overflow: hidden;
 	}
 
-		.image:before {
+		/*.image:before {
 			content: '';
 			display: block;
 			position: absolute;
@@ -911,7 +911,7 @@ input::-moz-focus-inner {
 			width: 100%;
 			height: 100%;
 			z-index: 1;
-		}
+		}*/
 
 		.image img {
 			border-radius: 4px;
