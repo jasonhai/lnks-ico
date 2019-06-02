@@ -222,7 +222,7 @@
                         <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
-                                    <img src="template/images/testimonials/shy-yeo.jpg">
+                                    <img src="template/images/shy-yeo.jpg">
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
@@ -361,7 +361,7 @@
                         <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
-                                    <img src="template/images/testimonials/thsun.jpg">
+                                    <img src="template/images/thsun.jpg">
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
