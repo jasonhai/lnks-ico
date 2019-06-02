@@ -158,7 +158,7 @@
                     <div class="col-md-3 text-center">
                         <div class="avatar-content pb-20">
                             <a href="https://www.linkedin.com/in/map01/">
-                                <img src="template/images/slv-logo.jpg">
+                                <img src="template/images/Michael-Anthony.jpg">
                             </a>
                             <div class="avatar-member-bio">
                                 <a href="">

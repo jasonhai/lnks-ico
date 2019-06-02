@@ -20,26 +20,15 @@
         <div class="content">
             <div class="container doccument">
                 <div class="row">
-                    <table class="table-bordered">
-                        <tbody>
-                        <tr>
-                            <th class="doc-title text-center" headers="blank">Original Whitepaper</th>
-                            <th class="doc-title text-center" headers="blank">New Growth Stage Whitepaper</th>
-                        </tr>
-                        <tr>
-                            <td><a href="https://bit.ly/2JKJMsZ" target="_blank">https://bit.ly/2JKJMsZ</a></td>
-                            <td><a href="https://bit.ly/2LNtQJh" target="_blank">https://bit.ly/2LNtQJh</a></td>
-                        </tr>
-                        <tr>
-                            <th class="doc-title text-center" headers="blank">Original Distribution Agreement</th>
-                            <th class="doc-title text-center" headers="blank">New Growth Stage Distribution Agreement</th>
-                        </tr>
-                        <tr>
-                            <td><a href="https://bit.ly/2Jq1uD2" target="_blank">https://bit.ly/2Jq1uD2</a></td>
-                            <td><a href="https://bit.ly/30rZDCD" target="_blank">https://bit.ly/30rZDCD</a></td>
-                        </tr>
-                        </tbody>
-                    </table>
+                    <div class="col-md-12">
+                        <a class="primary btn-primary col-md-6" href="https://bit.ly/2JKJMsZ" target="_blank">Original Whitepaper</a>
+                        <a class="primary btn-primary col-md-6" href="https://bit.ly/2LNtQJh" target="_blank">New Growth Stage Whitepaper</a>    
+                    </div>
+
+                    <div class="col-md-12">
+                        <a class="primary btn-primary col-md-6" href="https://bit.ly/2Jq1uD2" target="_blank">Original Distribution Agreement</a>
+                        <a class="primary btn-primary col-md-6" href="https://bit.ly/30rZDCD" target="_blank">New Growth Stage Distribution Agreement</a>
+                    </div>
                 </div>
             </div>
         </div>

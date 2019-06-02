@@ -10,10 +10,10 @@
     <!-- Banner -->
     <section id="banner">
         <div class="content">
-            <header>
+            <header style="text-align: center;">
                 <h2>Testimonials</h2>
-                <p>What people say about Decentralized Silver Market and Silverlink Platform <br>
-                    What people say about Tokenizing Silver on Blockchain and Silverlink Platform</p>
+                <span>What people say about Decentralized Silver Market and Silverlink Platform</span><br>
+                    <span>What people say about Tokenizing Silver on Blockchain</span>
             </header>
         </div>
         <a class="goto-next scrolly">Next</a>
@@ -71,7 +71,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-md-3 mb-20 team-tile">
+                    <!-- <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/testimonials/vladimir.jpeg">
@@ -111,7 +111,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End member -->
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
@@ -155,7 +155,7 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <div class="col-md-3 mb-20 team-tile">
+                    <!-- <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -197,7 +197,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End member -->
 
                     <div class="col-md-3 mb-20 team-tile">
@@ -1764,7 +1764,7 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <div class="col-md-3 mb-20 team-tile">
+                    <!-- <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
                                 <img src="template/images/slv-logo.jpg">
@@ -1806,7 +1806,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End member -->
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
@@ -2593,7 +2593,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Leandro-França-de-Mello.jpeg">
+                                <img src="template/images/Leandro-Franca-de-Mello.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">

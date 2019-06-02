@@ -9,8 +9,8 @@
             <li><a class="nav-link" href="{{ url('/board-of-markers') }}">BOARD OF MAKERS</a></li>
             <li><a class="nav-link" href="{{ url('/testimonials') }}">TESTIMONIALS</a></li>
             <li><a class="nav-link" href="{{ url('/documents') }}">DOCUMENTS</a></li>
-            <li><a class="nav-link login" href="{{ url('/login') }}">LOG IN</a></li>
-            <li><a class="nav-link btn button primary btn-primary" href="{{ url('/register') }}">KYC</a></li>
+            <!-- <li><a class="nav-link login" href="{{ url('/login') }}">LOG IN</a></li> -->
+            <!-- <li><a class="nav-link btn button primary btn-primary" href="{{ url('/register') }}">KYC</a></li> -->
         </ul>
     </nav>
 </header>

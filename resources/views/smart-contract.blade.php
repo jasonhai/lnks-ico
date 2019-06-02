@@ -57,7 +57,7 @@
                 </table>
 
                 <h1>Exchange</h1>
-                <p>Now, you can trade SLV on DEXs</p>
+                <span>Now, you can trade SLV on DEXs</span>
                 <table class="home-table">
                     <tbody><tr>
                             <th>Etherdelta</th>
