@@ -15,7 +15,7 @@
                     <p>And there are no hoverboards or flying cars.<br />
                     Just apps. Lots of mother flipping apps.</p>
                 </header>
-                <a href="https://github.com/slvone" target="_blank"><span class="image"><img src="template/images/pic01.png" alt="" /></span></a>
+                <a href="https://github.com/slvone" target="_blank"><span class="image"><img width="312" height="312" src="template/images/pic01.png" alt="" /></span></a>
             </div>
             <a class="goto-next scrolly">Next</a>
         </section>
@@ -48,7 +48,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 -mt-50">
-                            <img src="template/images/slv-logo.jpg" style="max-width:100%;">
+                            <img src="template/images/slv-logo.jpg" style="max-width:100%;" width="350" height="323">
                         </div>
                         <div class="col-md-8">
                             <table class="home-table">
