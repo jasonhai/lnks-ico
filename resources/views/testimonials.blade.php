@@ -116,7 +116,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/shy-yeo.jpg" width="255" height="255">
+                                <img src="template/images/shy-yeo.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
