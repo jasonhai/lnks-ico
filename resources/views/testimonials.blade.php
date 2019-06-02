@@ -12,8 +12,8 @@
         <div class="content">
             <header style="text-align: center;">
                 <h2>Testimonials</h2>
-                <span>What people say about Decentralized Silver Market and Silverlink Platform</span><br>
-                    <span>What people say about Tokenizing Silver on Blockchain</span>
+                <span style="color: #fff">What people say about Decentralized Silver Market and Silverlink Platform</span><br>
+                    <span style="color: #fff">What people say about Tokenizing Silver on Blockchain</span>
             </header>
         </div>
         <a class="goto-next scrolly">Next</a>
@@ -116,7 +116,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/testimonials/shy-yeo.jpeg" width="255" height="255">
+                                <img src="template/images/testimonials/shy-yeo.jpg" width="255" height="255">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -245,7 +245,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/testimonials/thsun.jpeg">
+                                <img src="template/images/testimonials/thsun.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
