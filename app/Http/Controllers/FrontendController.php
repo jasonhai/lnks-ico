@@ -43,7 +43,7 @@ class FrontendController extends Controller
             return back();
 
         } catch (\Exception $e) {
-            report($e);
+            \Log::debug($e->getMessage());
             toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
         }
     }
@@ -66,7 +66,7 @@ class FrontendController extends Controller
             return back();
 
         } catch (\Exception $e) {
-            report($e);
+            \Log::debug($e->getMessage());
             toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
         }
     }
@@ -89,7 +89,7 @@ class FrontendController extends Controller
             return back();
 
         } catch (\Exception $e) {
-            report($e);
+            \Log::debug($e->getMessage());
             toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
         }
     }
