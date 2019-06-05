@@ -128,4 +128,9 @@ class FrontendController extends Controller
     {
         return view('documents');
     }
+
+    public function profile()
+    {
+        return view('profile');
+    }
 }

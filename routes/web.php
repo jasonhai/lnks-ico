@@ -27,7 +27,7 @@ Route::get('/extra-information', 'FrontendController@extraInformation');
 Route::get('/board-of-markers', 'FrontendController@boardOfMarkers');
 Route::get('/testimonials', 'FrontendController@testimonials');
 Route::get('/documents', 'FrontendController@documents');
-
+Route::get('/profile', 'FrontendController@profile');
 
 Route::get('/login', function () { return view('login'); });
 Route::get('/register', function () { return view('register'); });
