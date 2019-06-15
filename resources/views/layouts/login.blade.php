@@ -22,7 +22,6 @@
         <script src="template/assets/js/breakpoints.min.js"></script>
         <script src="template/assets/js/util.js"></script>
         <script src="template/assets/js/token.js"></script>
-        <script src="template/assets/js/upload.js"></script>
 
         @toastr_js
         @toastr_render

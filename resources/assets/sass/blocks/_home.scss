@@ -38,3 +38,39 @@
     padding: 0 10px;
   }
 }
+
+
+// Profile
+#avatar-image {
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+
+.profile-head li {
+  padding-left: 0;
+
+  a {
+    font-weight:600;
+    border: none;
+    color: #535353;
+
+    &.active {
+      border: none;
+      color: #e44c65;
+      border-bottom:2px solid #e44c65;
+    }
+  }
+}
+
+.info-content {
+  clear: both;
+  margin-top: 30px;
+}
+
+.text-red {
+  color: #e44c65 !important;
+  font-size: 13px;
+}
+

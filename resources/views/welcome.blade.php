@@ -579,8 +579,10 @@
                         </div>
                     </div>
 
-                    <div class="row read-more">
-                        <a href="{{ url('/testimonials') }}">Read more</a>
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <a class="btn-dark btn btn-general" href="{{ url('/testimonials') }}">Read more</a>
+                        </div>
                     </div>
                 </div>
             </div>

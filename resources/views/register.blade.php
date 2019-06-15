@@ -32,11 +32,17 @@
                         </div>
 
                         <div class="form-group col-md-12">
+                            <label class="custom-control pb-20">Your SLV tokens will be sent here (ERC20 Compatible)</label>
+                            <label class="custom-control d-block">Buy Presale, please stop here!</label>
+                            <label class="custom-control d-block">Buy OTC, please fill more below:</label>
+                        </div>
+
+                        <div class="form-group col-md-12">
                             <label class="custom-control" for="national-id">National ID or Passport Number</label>
                             <input id="national-id" type="text" name="national-id" value="" class="form-control" placeholder="Optional">
                         </div>
 
-                        <div class="form-group col-md-6 uploads-file">
+                        <div class="form-group col-md-12 uploads-file">
                             <label class="custom-control">Upload ID Document</label>
                             <img id="doc1">
                             <label class="custom-control custom-file-upload" for="upload-doc"><i class="fa fa-cloud-upload"></i>Upload file</label>
@@ -45,7 +51,7 @@
                             <p class="notification1 alert alert-danger"></p>
                         </div>
 
-                        <div class="form-group col-md-6 uploads-file">
+                        <div class="form-group col-md-12 uploads-file">
                             <label class="custom-control" for="upload-photo-id">A selfie holding the identity document (opened, with the photo and ID clearly visible)</label>
                             <img id="doc2">
                             <label class="custom-control custom-file-upload" for="upload-photo-id"><i class="fa fa-cloud-upload"></i>Upload file</label>

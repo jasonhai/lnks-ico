@@ -937,7 +937,8 @@ footer .nav-link {
 }
 
 .notification1,
-.notification2 {
+.notification2,
+.notification3 {
     display: none;
 }
 

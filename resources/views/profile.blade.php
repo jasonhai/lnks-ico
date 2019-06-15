@@ -15,65 +15,141 @@
         </div>
         <a class="goto-next scrolly">Next</a>
     </section>
-    <section class="smart-contract pt-120">
-        <div class="content">
-            <div class="container">
-                <h1>SLVone ecosystem</h1>
-                <p>SLVone is the first decentralized silver market in the world, <br>
-                where the users from everywhere on the globe can mint, trade and redeem their silver bullion.</p>
+    <section class="smart-contract pt-120 pb-40">
+        <div class="container bootstrap snippet">
+            <div class="row">
+                <div class="col-md-3 pb-40"><!--left col-->
+                    <div class="text-center">
+                        <img id="avatar-image" src="http://ssl.gstatic.com/accounts/ui/avatar_2x.png" class="avatar img-circle img-thumbnail" alt="avatar">
+                        <label class="custom-control custom-file-upload" for="upload-avatar"><i class="fa fa-cloud-upload"></i>Upload photo</label>
+                        <input id="upload-avatar" type="file" name="upload-doc" class="form-control hidden-this" placeholder="Upload file">
+                        <label id="file-name3" class="custom-control d-block"></label>
+                        <p class="notification3 alert alert-danger"></p>
+                    </div></hr><br>
 
-                <h1>The SLV</h1>
-                <p>Do you have SLV tokens? With SLV, you have the superpower to mint the silver token via <br>
-                Minter Smart Contract on SLVone ecosystem. You can also trade and redeem real Silver Bullion in the matter of seconds.<br>
-                Learn more a bout the smart contract and start participating with one of the following exchanges.
-                </p>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">Website <i class="fa fa-link fa-1x"></i></div>
+                        <div class="panel-body"><a href="https://slv.one/">slv.one</a></div>
+                    </div>
+                </div>
+                <!--/col-3-->
+                <div class="col-md-9 pb-40">
+                    <div class="col-md-12">
+                        <ul class="nav nav-tabs profile-head">
+                            <li><a data-toggle="tab" href="#personal" class="active show">Personal</a></li>
+                            <li><a data-toggle="tab" href="#security">Security</a></li>
+                            <li><a data-toggle="tab" href="#ethEmail">Eth email</a></li>
+                        </ul>
+                    </div>
 
-                <h1>Token Information</h1>
-                <table class="home-table">
-                    <tbody><tr>
-                            <th>Token name</th>
-                            <td>The Silverlink Network Token</td>
-                        </tr>
-                        <tr>
-                            <th>Token type</th>
-                            <td>ERC20</td>
-                        </tr>
-                        <tr>
-                            <th colspan="2" style="font-weight: bold;">Add The Silverlink Network Token (SLV) to your Wallet (MyEtherWallet, Metamask…)</th>
-                        </tr>
-                        <tr>
-                            <th>Token Contract Address</th>
-                            <td>0xdD2634908c54139964e316B6953818b043120b63</td>
-                        </tr>
-                        <tr>
-                            <th>Token symbol</th>
-                            <td>SLV</td>
-                        </tr> 
-                        <tr>
-                            <th>Decimals of Precision</th>
-                            <td>18</td>
-                        </tr>
-                    </tbody>
-                </table>
+                    <div class="tab-content info-content">
+                        <div class="tab-pane active" id="personal">
+                            <form class="form">
+                                <div class="form-group col-md-12">
+                                    <label class="custom-control" for="full_name">Full name</label>
+                                    <input type="text" name="full_name" id="full_name" class="form-control" placeholder="Full name">
+                                </div>
 
-                <h1>Exchange</h1>
-                <span>Now, you can trade SLV on DEXs</span>
-                <table class="home-table">
-                    <tbody><tr>
-                            <th>Etherdelta</th>
-                            <td><a href="https://etherdelta.com/#0xdD2634908c54139964e316B6953818b043120b63-ETH" target="_blank">https://etherdelta.com/#0xdD2634908c54139964e316B6953818b043120b63-ETH</a></td>
-                        </tr>
-                        <tr>
-                            <th>Forkdelta</th>
-                            <td><a href="https://forkdelta.app/#!/trade/0xdD2634908c54139964e316B6953818b043120b63-ETH" target="_blank">https://forkdelta.app/#!/trade/0xdD2634908c54139964e316B6953818b043120b63-ETH</a></td>
-                        </tr>
-                        <tr>
-                            <th colspan="2" style="font-weight: bold;">SLV will be listed on big exchanges soon</th>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
+                                <div class="form-group col-md-6 pull-left">
+                                    <label class="custom-control" for="email">Email</label>
+                                    <input type="email" name="email" id="email" class="form-control" placeholder="Email">
+                                </div>
+
+                                <div class="form-group col-md-6 pull-right">
+                                    <label class="custom-control" for="phone">Phone</label>
+                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Phone">
+                                </div>
+
+                                <div class="form-group col-md-12">
+                                    <label class="custom-control" for="address">Address</label>
+                                    <input type="text" name="address" id="address" class="form-control" placeholder="Address">
+                                </div>
+
+                                <div class="form-group col-md-12">
+                                    <label class="custom-control" for="id_passport">National ID or Passport Number</label>
+                                    <input type="text" name="id_passport" id="id_passport" class="form-control" placeholder="Optional">
+                                </div>
+
+                                <div class="form-group col-md-12 uploads-file">
+                                    <label class="custom-control">Upload ID Document</label>
+                                    <img id="doc1">
+                                    <label class="custom-control custom-file-upload" for="upload-doc"><i class="fa fa-cloud-upload"></i>Upload file</label>
+                                    <input id="upload-doc" type="file" name="upload-doc" class="form-control hidden-this" placeholder="Upload file">
+                                    <label id="file-name1" class="custom-control d-block"></label>
+                                    <p class="notification1 alert alert-danger"></p>
+                                </div>
+
+                                <div class="form-group col-md-12 uploads-file">
+                                    <label class="custom-control" for="upload-photo-id">A selfie holding the identity document (opened, with the photo and ID clearly visible)</label>
+                                    <img id="doc2">
+                                    <label class="custom-control custom-file-upload" for="upload-photo-id"><i class="fa fa-cloud-upload"></i>Upload file</label>
+                                    <input id="upload-photo-id" type="file" name="upload-photo-id" class="form-control hidden-this" placeholder="Upload file">
+                                    <label id="file-name2" class="custom-control d-block"></label>
+                                    <p class="notification2 alert alert-danger"></p>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-xs-12">
+                                        <br>
+                                        <button class="btn btn-success" type="submit">Save</button>
+                                        <button class="btn btn-default" type="reset">Cancel</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div><!--/tab-pane-->
+                        <div class="tab-pane" id="security">
+                            <form class="form">
+                                <div class="form-group col-md-12">
+                                    <label class="custom-control" for="old_password">Old Password</label>
+                                    <input type="password" name="old_password" id="old_password" class="form-control" placeholder="Old Password">
+                                </div>
+
+                                <div class="form-group col-md-6 pull-left">
+                                    <label class="custom-control" for="password">New Password</label>
+                                    <input type="password" name="password" id="password" class="form-control" placeholder="Password">
+                                </div>
+
+                                <div class="form-group col-md-6 pull-right">
+                                    <label class="custom-control" for="cf_password">Confirm New Password</label>
+                                    <input type="password" name="cf_password" id="cf_password" class="form-control" placeholder="Confirm Password">
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-xs-12">
+                                        <br>
+                                        <button class="btn btn-success" type="submit">Save</button>
+                                        <button class="btn btn-default" type="reset">Cancel</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="tab-pane" id="ethEmail">
+                            <form class="form">
+                                <div class="form-group col-md-12">
+                                    <label class="custom-control" for="eth">Just send your ETH to this address</label>
+                                    <input type="text" name="eth" id="eth" class="form-control" placeholder="Just send your ETH to this address">
+                                </div>
+
+                                <div class="form-group col-md-12 text-red">
+                                    <div>We DO NOT ask your ETH via any emails or social networks</div>
+                                    <div>All emails ask you ETH are scam (PHISHING SCAM)</div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-xs-12">
+                                        <br>
+                                        <button class="btn btn-success" type="submit">Send</button>
+                                        <button class="btn btn-default" type="reset">Cancel</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div><!--/tab-pane-->
+                </div>
+                <!--/tab-content-->
+
+            </div><!--/col-9-->
+        </div><!--/row-->
     </section>
 
     <!-- Footer -->
