@@ -24792,12 +24792,6 @@ html {
   font-size: 13px;
 }
 
-#myvideo {
-  max-width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-
 .container:before,
 .container:after,
 .row:before,

@@ -306,52 +306,7 @@
 		}
 	}
 
-	// function uploadProcess(clsNotifi, clsFilename, clsDoc) {
-	// 	if(this.files && this.files[0]) {
-	// 		var imgPath = this.files[0].name;
-	// 		var imgSize = this.files[0].size;
-	// 		var extn = imgPath.substring(imgPath.lastIndexOf('.') + 1).toLowerCase();
-	//
-	// 		if (extn == "gif" || extn == "png" || extn == "jpg" || extn == "jpeg" || extn == "doc" || extn == "pdf" || extn == "doc" || extn == "docx") {
-	// 			if(imgSize <= 2000000) {
-	// 				$(clsFilename).text(this.files[0].name);
-	// 				if(extn == "gif" || extn == "png" || extn == "jpg" || extn == "jpeg") {
-	// 					readURL(this, 1, clsDoc)
-	// 				} else {
-	// 					readURL(this, 0, clsDoc)
-	// 				}
-	//
-	// 			} else {
-	// 				$(clsNotifi).show();
-	// 				$(clsNotifi).html('The maximum upload file size 2MB');
-	// 				setTimeout(function () {
-	// 					$(clsNotifi).hide();
-	// 					$(clsNotifi).html('');
-	// 				}, 2000);
-	// 				$(clsFilename).text('');
-	// 				$(clsDoc).removeAttr('src');
-	// 			}
-	//
-	// 		} else {
-	// 			$(clsNotifi).show();
-	// 			$(clsNotifi).html('Unable to upload a file: This file type is not supported');
-	// 			setTimeout(function () {
-	// 				$(clsNotifi).hide();
-	// 				$(clsNotifi).html('');
-	// 			}, 2000);
-	// 			$(clsFilename).text('');
-	// 			$(clsDoc).removeAttr('src');
-	// 		}
-	// 	} else {
-	// 		$(clsNotifi).hide();
-	// 		$(clsNotifi).html('');
-	// 		$(clsFilename).text('');
-	// 		$(clsDoc).removeAttr('src');
-	// 	}
-	// }
-
 	 $("#upload-doc").change(function() {
-	// 	uploadProcess(".notification1", "#file-name1", "#doc1");
 		if(this.files && this.files[0]) {
 			var imgPath = this.files[0].name;
 			var imgSize = this.files[0].size;

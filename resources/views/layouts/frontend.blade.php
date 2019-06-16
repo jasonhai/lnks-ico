@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="css/app.css" />
         <link rel="stylesheet" href="template/assets/css/main.css" />
         <link rel="stylesheet" href="template/assets/css/custom.css" />
+        <link rel="stylesheet" href="template/assets/css/lity.css" />
         <noscript><link rel="stylesheet" href="template/assets/css/noscript.css" /></noscript>
         @toastr_css
     </head>
@@ -29,6 +30,7 @@
         <script src="template/assets/js/browser.min.js"></script>
         <script src="template/assets/js/breakpoints.min.js"></script>
         <script src="template/assets/js/util.js"></script>
+        <script src="template/assets/js/lity.js"></script>
         <script src="template/assets/js/main.js"></script>
         <script src="template/assets/js/token.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>

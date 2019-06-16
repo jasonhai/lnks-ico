@@ -65,24 +65,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 -mt-50">
-
-                            <div class="silver-video">
-                                <video onclick="playPause();" id="myvideo" poster="template/images/slv-logo.jpg">
-                                    <source playsinline id="mp4" src="template/video/Silverlink_Video.mp4" type="video/mp4">
-                                    Your browser does not support the video tag.
-                                </video>
+                            <div class=" video-btn-wrapper">
+                                <div class="bg-img" data-overlay="4">
+                                </div>
+                                <a class="btn btn-circular btn-primary" href="template/video/Silverlink_Video.mp4" data-provide="lightbox" data-lity>
+                                    <i class="fa fa-play"></i>
+                                </a>
                             </div>
-
-                            <script type="text/javascript">
-                                var video = document.getElementById("myvideo");
-
-                                function playPause() {
-                                    if (video.paused)
-                                        video.play();
-                                    else
-                                        video.pause();
-                                }
-                                </script>
                         </div>
                         <div class="col-md-8">
                             <table class="home-table">

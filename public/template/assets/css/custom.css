@@ -296,32 +296,23 @@ table tr:nth-child(2n) {
     font-weight: bold;
 }
 
-#videos .videos-container {
-    overflow: hidden;
-}
-
 .video-btn-wrapper {
-    overflow: hidden;
     position: relative;
-    min-height: 180px;
-}
-
-.video-btn-wrapper h6 {
-    background-color: rgba(45, 67, 88,0.6);
-    position: absolute;
-    width: 100%;
-    font-size: 16px;
-    color: #fff;
-    text-align: center;
+    min-height: 280px;
+    overflow: hidden;
 }
 
 .video-btn-wrapper .bg-img {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
     transition: all 1.5s;
-    min-height: 180px;
+    background-image: url("../../images/slv-logo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
 }
 
 .video-btn-wrapper .btn {
@@ -334,8 +325,8 @@ table tr:nth-child(2n) {
     transition: .3s;
 }
 
-.videos-container .video-btn-wrapper:hover .bg-img,
-.videos-container .video-btn-wrapper:focus .bg-img {
+.video-btn-wrapper:hover .bg-img,
+.video-btn-wrapper:focus .bg-img {
     transform: scale(1.5);
 }
 
