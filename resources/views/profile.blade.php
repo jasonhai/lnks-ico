@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 
-@section('title', 'Home page')
+@section('title', 'Profile page')
 
 @section('sidebar')
     @parent
@@ -63,6 +63,11 @@
                                 <div class="form-group col-md-12">
                                     <label class="custom-control" for="address">Address</label>
                                     <input type="text" name="address" id="address" class="form-control" placeholder="Address">
+                                </div>
+
+                                <div class="form-group col-md-12">
+                                    <label class="custom-control" for="slvtoken">SLV tokens</label>
+                                    <input type="text" name="slvtoken" id="slvtoken" class="form-control" placeholder="Your SLV tokens will be sent here (ERC20 Compatible)">
                                 </div>
 
                                 <div class="form-group col-md-12">

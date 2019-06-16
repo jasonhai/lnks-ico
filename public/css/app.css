@@ -24792,6 +24792,23 @@ html {
   font-size: 13px;
 }
 
+#myvideo {
+  max-width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.container:before,
+.container:after,
+.row:before,
+.row:after {
+  display: inline-block !important;
+}
+
+footer {
+  clear: both;
+}
+
 .road-map {
   background-color: #003056;
 }
@@ -25185,6 +25202,7 @@ html {
 
   .smart-contract.pt-120,
   .road-map.pt-120 {
+    display: grid;
     padding-top: 50px !important;
   }
 }

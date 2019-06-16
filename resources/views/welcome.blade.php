@@ -42,13 +42,47 @@
             </div>
         </section>
 
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <video width="100%" poster="template/images/slv-logo.jpg" controls>--}}
+                        <source src="template/video/Silverlink_Video.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+        </div>
+    </div>
+
         <!-- Info cua coin -->
         <section class="sectionoverflow-hidden new-section-des pt-0 pb-90">
             <div class="content">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 -mt-50">
-                            <img src="template/images/slv-logo.jpg" style="max-width:100%;">
+
+                            <div class="silver-video">
+                                <video onclick="playPause();" id="myvideo" poster="template/images/slv-logo.jpg">
+                                    <source playsinline id="mp4" src="template/video/Silverlink_Video.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+
+                            <script type="text/javascript">
+                                var video = document.getElementById("myvideo");
+
+                                function playPause() {
+                                    if (video.paused)
+                                        video.play();
+                                    else
+                                        video.pause();
+                                }
+                                </script>
                         </div>
                         <div class="col-md-8">
                             <table class="home-table">
@@ -592,6 +626,6 @@
     @include('partials.subcribe')
 
     <!-- Footer -->
-    @include('partials.footer')   
+    @include('partials.footer')
 
 @stop

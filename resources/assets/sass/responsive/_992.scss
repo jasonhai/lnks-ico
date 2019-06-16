@@ -65,6 +65,7 @@
   .smart-contract,
   .road-map {
     &.pt-120 {
+      display: grid;
       padding-top: 50px !important;
     }
   }

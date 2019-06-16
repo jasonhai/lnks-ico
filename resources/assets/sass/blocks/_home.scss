@@ -74,3 +74,19 @@
   font-size: 13px;
 }
 
+#myvideo {
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.container,
+.row {
+  &:before,
+  &:after {
+    display: inline-block !important;
+  }
+}
+
+footer {
+  clear: both;
+}

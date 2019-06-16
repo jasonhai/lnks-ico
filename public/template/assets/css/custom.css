@@ -433,7 +433,7 @@ header h2 {
 
 .whitepaper_section h4 {
     color: #fff;
-    top: 40px;
+    top: 20px;
     position: relative;
 }
 
@@ -457,7 +457,7 @@ header h2 {
 }
 
 .change-btn-res {
-    top: 32px;
+    top: 12px;
     position: relative;
     display: inline-block;
 }

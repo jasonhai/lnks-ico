@@ -32,7 +32,7 @@
                         </div>
 
                         <div class="form-group col-md-12">
-                            <label class="custom-control pb-20">Your SLV tokens will be sent here (ERC20 Compatible)</label>
+                            <input id="slvtoken" type="text" name="slvtoken" class="form-control" placeholder="Your SLV tokens will be sent here (ERC20 Compatible)">
                             <label class="custom-control d-block">Buy Presale, please stop here!</label>
                             <label class="custom-control d-block">Buy OTC, please fill more below:</label>
                         </div>
