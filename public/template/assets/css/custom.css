@@ -1180,3 +1180,9 @@ footer .nav-link {
 .doccument a {
     text-decoration: none; 
 }
+
+.smart-contract.pt-120,
+.road-map.pt-120 {
+     display: grid;
+     padding-top: 50px !important;
+}
