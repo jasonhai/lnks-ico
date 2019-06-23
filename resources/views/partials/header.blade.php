@@ -9,8 +9,13 @@
             <li><a class="nav-link" href="{{ url('/board-of-markers') }}">BOARD OF MAKERS</a></li>
             <li><a class="nav-link" href="{{ url('/testimonials') }}">TESTIMONIALS</a></li>
             <li><a class="nav-link" href="{{ url('/documents') }}">DOCUMENTS</a></li>
-            <!-- <li><a class="nav-link login" href="{{ url('/login') }}">LOG IN</a></li> -->
-            <!-- <li><a class="nav-link btn button primary btn-primary" href="{{ url('/register') }}">KYC</a></li> -->
+            <?php if (Auth::user()): ?>
+                <li><a class="nav-link" href="{{ url('/profile') }}">Profile</a></li>
+                <li><a class="nav-link login" href="{{ url('/logout') }}">LOG Out</a></li>
+            <?php else: ?>
+                <li><a class="nav-link login" href="{{ url('/login') }}">LOG IN</a></li>
+                <li><a class="nav-link btn button primary btn-primary" href="{{ url('/register') }}">KYC</a></li>
+            <?php endif ?>
         </ul>
     </nav>
 </header>
