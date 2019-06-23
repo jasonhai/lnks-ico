@@ -11,13 +11,6 @@ use App\Subscriber;
 
 class FrontendController extends Controller
 {
-    // protected $repository;
-
-    // public function __construct(CouponRepository $repository)
-    // {
-    //     $this->repository = $repository;
-    // }
-    
     public function subscriber(Request $request)
     {
         try {
@@ -31,14 +24,14 @@ class FrontendController extends Controller
             if ($validator->passes()) {
                 $obj = new Subscriber();
                 if ($obj->findByEmail($data['email'])) {
-                    toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
+                    toastr()->error('Your email has been exsited in our system.', '', ['timeOut' => 3000]);
                 } else {
                     $obj->fill($data);
                     $obj->save();
                     toastr()->success('Data has been saved successfully!', '', ['timeOut' => 3000]);
                 }
             } else {
-                toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
+                toastr()->error('Please input a right format in your email address.', '', ['timeOut' => 3000]);
             }
             return back();
 
