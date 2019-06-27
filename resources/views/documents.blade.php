@@ -16,7 +16,7 @@
         <a class="goto-next scrolly">Next</a>
     </section>
     <!-- Seen on section -->
-    <section class="seenon_section bg-grey pt-120 pb-40">
+    <section class="seenon_section bg-grey pt-20 pb-40">
         <div class="content">
             <div class="container doccument">
                 <div class="row">

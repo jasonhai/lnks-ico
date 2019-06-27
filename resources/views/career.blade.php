@@ -23,7 +23,7 @@
     <section class="howitwork_section">
         <div class="content">
             <div class="container">
-                <header class="text-center pt-60 headbg2 section-header">
+                <header class="text-center pt-20 headbg2 section-header">
                     <small>Success Story</small>
                     <h2>We Can Do It Together<span class="background_heading_2">We Can Do It Together</span></h2>
                     <hr>

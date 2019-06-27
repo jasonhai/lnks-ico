@@ -70,7 +70,7 @@
 
                         <div class="form-group col-md-12 pl-15 pr-15">
                             <label class="custom-control custom-checkbox">
-                                <input type="checkbox" name="terms2" value="3" class="custom-control-input">
+                                <input type="checkbox" name="terms2" required value="3" class="custom-control-input" style="border: 1px solid #222;">
                                 <span class="custom-control-indicator" style="border: 1px solid #222;"></span>
                                 <span class="custom-control-description"><small class=" fw-400 text-dark lh-12">I hereby agree to <a href="/01.Whitepaper_Original_version.pdf" target="_blank">Token Purchase Agreement</a></small></span>
                             </label>

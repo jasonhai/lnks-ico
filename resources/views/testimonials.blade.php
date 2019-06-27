@@ -20,7 +20,7 @@
     </section>
 
     <!-- Seen on section -->
-    <section class="seenon_section bg-grey testimonials pt-120">
+    <section class="seenon_section bg-grey testimonials pt-20">
         <div class="content">
             <div class="container">
                 <div class="title-block">

@@ -96,13 +96,13 @@ class FrontendController extends Controller
 
                 if($request->hasFile('selfie_file')){
                     $selfieFile = $obj->id.'_selfie_file_'.time().'.'.request()->selfie_file->getClientOriginalExtension();
-                    $request->selfie_file->storeAs(public_path().'selfie_file', $selfieFile);
+                    \Storage::disk('public')->putFileAs('selfie_file', $request->selfie_file, $selfieFile);
                     $obj->selfie_file = $selfieFile;
                     $obj->save();
                 }
                 if($request->hasFile('national_id_file')){
                     $nationalIDFile = $obj->id.'_national_id_file_'.time().'.'.request()->national_id_file->getClientOriginalExtension();
-                    $request->national_id_file->storeAs(public_path().'national_id_file', $nationalIDFile);
+                    \Storage::disk('public')->putFileAs('national_id_file', $request->national_id_file, $nationalIDFile);
                     $obj->national_id_file = $nationalIDFile;
                     $obj->save();
                 }
@@ -110,7 +110,7 @@ class FrontendController extends Controller
                 toastr()->success('Registered successfully!', '', ['timeOut' => 3000]);
                 return redirect('/login');
             } else {
-                toastr()->error('An error has occurred please try again later.', '', ['timeOut' => 3000]);
+                toastr()->error('Your informations has been registered into our system.', '', ['timeOut' => 3000]);
             }
             return back();
 
@@ -172,8 +172,7 @@ class FrontendController extends Controller
                 ],
                 'national_id_file' => 'nullable|file|max:4096',
                 'selfie_file' => 'nullable|file|max:4096',
-                // 'password' => 'min:6',
-                // 'password_confirmation' => 'required_with:password|same:password|min:6'
+                'password_confirmation' => 'required_with:password|same:password'
             ]);
 
             if ($validator->passes()) {
@@ -185,18 +184,19 @@ class FrontendController extends Controller
 
                 if($request->hasFile('selfie_file')){
                     $selfieFile = $obj->id.'_selfie_file_'.time().'.'.request()->selfie_file->getClientOriginalExtension();
-                    $request->selfie_file->storeAs(public_path().'selfie_file', $selfieFile);
+                    \Storage::disk('public')->putFileAs('selfie_file', $request->selfie_file, $selfieFile);
                     $obj->selfie_file = $selfieFile;
                     $obj->save();
                 }
                 if($request->hasFile('national_id_file')){
                     $nationalIDFile = $obj->id.'_national_id_file_'.time().'.'.request()->national_id_file->getClientOriginalExtension();
-                    $request->national_id_file->storeAs(public_path().'national_id_file', $nationalIDFile);
+                    \Storage::disk('public')->putFileAs('national_id_file', $request->national_id_file, $nationalIDFile);
                     $obj->national_id_file = $nationalIDFile;
                     $obj->save();
                 }
                 if (!empty($data['password'])) {
-                    # code...
+                    $obj->password = Hash::make($data['password']);
+                    $obj->save();
                 }
 
                 toastr()->success('Updated successfully!', '', ['timeOut' => 3000]);

@@ -20,7 +20,7 @@
     <section class="howitwork_section">
         <div class="content">
             <div class="container">
-                <header class="text-center pt-60 headbg2 section-header">
+                <header class="text-center pt-20 headbg2 section-header">
                     <small>TEAM</small>
                     <h2>Together, we can do anything !!!<span class="background_heading_2">Together, we can do anything</span></h2>
                     <hr>
