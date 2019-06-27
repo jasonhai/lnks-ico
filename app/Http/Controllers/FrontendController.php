@@ -195,6 +195,9 @@ class FrontendController extends Controller
                     $obj->national_id_file = $nationalIDFile;
                     $obj->save();
                 }
+                if (!empty($data['password'])) {
+                    # code...
+                }
 
                 toastr()->success('Updated successfully!', '', ['timeOut' => 3000]);
                 return redirect('/profile');

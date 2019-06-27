@@ -85,12 +85,12 @@
                                     </tr>
                                     <tr>
                                         <th>OTC & IEO<i>(KYC Requirements)</i></th>
-                                        <td>1,500,000 <i>(From Jun 25th 2019 to Aug 25th 2019)</i><br>
+                                        <td>1,500,000 <i>(From Jul 10th 2019 to Sep 10th 2019)</i><br>
                                         1 ETH = 220 SLV <i>(Send at least 5 ETH)</i></td>
                                     </tr>
                                     <tr>
                                         <th>Pre-sale</th>
-                                        <td>500,000 <i>(From Jun 25th 2019 to Jul 25th 2019)</i><br>
+                                        <td>500,000 <i>(From Jul 10th 2019 to Aug 25th 2019)</i><br>
                                         <i>1 ETH = 180 SLV</i></td>
                                     </tr>
                                     <tr>

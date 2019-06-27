@@ -13,8 +13,8 @@
                 <li><a class="nav-link" href="{{ url('/profile') }}">Profile</a></li>
                 <li><a class="nav-link login" href="{{ url('/logout') }}">LOG Out</a></li>
             <?php else: ?>
-                <li><a class="nav-link login" href="{{ url('/login') }}">LOG IN</a></li>
-                <li><a class="nav-link btn button primary btn-primary" href="{{ url('/register') }}">KYC</a></li>
+                <!-- <li><a class="nav-link login" href="{{ url('/login') }}">LOG IN</a></li> -->
+                <!-- <li><a class="nav-link btn button primary btn-primary" href="{{ url('/register') }}">KYC</a></li> -->
             <?php endif ?>
         </ul>
     </nav>
