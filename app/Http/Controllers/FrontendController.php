@@ -96,13 +96,13 @@ class FrontendController extends Controller
 
                 if($request->hasFile('selfie_file')){
                     $selfieFile = $obj->id.'_selfie_file_'.time().'.'.request()->selfie_file->getClientOriginalExtension();
-                    \Storage::disk('public')->putFileAs('selfie_file', $request->selfie_file, $selfieFile, 'public');
+                    \Storage::disk('public')->putFileAs('selfie_file', $request->selfie_file, $selfieFile);
                     $obj->selfie_file = $selfieFile;
                     $obj->save();
                 }
                 if($request->hasFile('national_id_file')){
                     $nationalIDFile = $obj->id.'_national_id_file_'.time().'.'.request()->national_id_file->getClientOriginalExtension();
-                    \Storage::disk('public')->putFileAs('national_id_file', $request->national_id_file, $nationalIDFile, 'public');
+                    \Storage::disk('public')->putFileAs('national_id_file', $request->national_id_file, $nationalIDFile);
                     $obj->national_id_file = $nationalIDFile;
                     $obj->save();
                 }
@@ -184,13 +184,13 @@ class FrontendController extends Controller
 
                 if($request->hasFile('selfie_file')){
                     $selfieFile = $obj->id.'_selfie_file_'.time().'.'.request()->selfie_file->getClientOriginalExtension();
-                    \Storage::disk('public')->putFileAs('selfie_file', $request->selfie_file, $selfieFile, 'public');
+                    \Storage::disk('public')->putFileAs('selfie_file', $request->selfie_file, $selfieFile);
                     $obj->selfie_file = $selfieFile;
                     $obj->save();
                 }
                 if($request->hasFile('national_id_file')){
                     $nationalIDFile = $obj->id.'_national_id_file_'.time().'.'.request()->national_id_file->getClientOriginalExtension();
-                    \Storage::disk('public')->putFileAs('national_id_file', $request->national_id_file, $nationalIDFile, 'public');
+                    \Storage::disk('public')->putFileAs('national_id_file', $request->national_id_file, $nationalIDFile);
                     $obj->national_id_file = $nationalIDFile;
                     $obj->save();
                 }

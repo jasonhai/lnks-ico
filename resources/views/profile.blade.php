@@ -65,7 +65,7 @@
 
                             <div class="form-group col-md-12 pull-left uploads-file">
                                 <label class="custom-control">Upload ID Document</label>
-                                <img id="doc1" src="<?= asset('uploads/national_id_file/'.$user->national_id_file) ?>">
+                                <img id="doc1" src="<?= asset('storage/national_id_file/'.$user->national_id_file) ?>">
                                 <label class="custom-control custom-file-upload" for="upload-doc"><i class="fa fa-cloud-upload"></i>Upload file</label>
                                 <input id="upload-doc" type="file" name="national_id_file" class="form-control hidden-this" placeholder="Upload file">
                                 <label id="file-name1" class="custom-control d-block"></label>
@@ -74,7 +74,7 @@
 
                             <div class="form-group col-md-12 pull-right uploads-file">
                                 <label class="custom-control" for="upload-photo-id">A selfie holding the identity document (opened, with the photo and ID clearly visible)</label>
-                                <img id="doc2" src="<?= asset('uploads/selfie_file/'.$user->selfie_file) ?>">
+                                <img id="doc2" src="<?= asset('storage/selfie_file/'.$user->selfie_file) ?>">
                                 <label class="custom-control custom-file-upload" for="upload-photo-id"><i class="fa fa-cloud-upload"></i>Upload file</label>
                                 <input id="upload-photo-id" type="file" name="selfie_file" class="form-control hidden-this" placeholder="Upload file">
                                 <label id="file-name2" class="custom-control d-block"></label>
