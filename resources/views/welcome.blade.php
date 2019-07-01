@@ -196,51 +196,6 @@
                             </div>
                         </div>
                         <!-- End member -->
-                        <!-- <div class="col-md-3 mb-20 team-tile">
-                            <div class="team-tile-content">
-                                <div class="member-head">
-                                    <img src="template/images/testimonials/vladimir.jpeg">
-                                </div>
-                                <div class="member-content">
-                                    <header class="team-member-header">
-                                        <a href="https://www.linkedin.com/in/vlprosvirkin/" target="_blank"> 
-                                            <h3 class="team-member-name">Vladimir Prosvirkin</h3>
-                                        </a>
-                                        <div class="team-member-meta"> 
-                                            <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span> 
-                                            <span class="team-member-location"> 
-                                                <span class="location-name location-hong-kong">Moscow, Russian Federation</span> 
-                                            </span>
-                                        </div>
-                                    </header>
-                                    <div class="team-member-bio">
-                                        <p>Asset tokenization can give access to the portfolio diversification to crypto traders and boost liquidity of the assets by giving access to the ordinary people.</p>
-                                    </div>
-                                    <span class="team-read-more">Read more</span>
-                                </div>
-                                <div class="team-member-card"> 
-                                    <button class="team-member-card-close no-style">
-                                        <i class="icon alt fa-close"></i> 
-                                    </button>
-                                    <div class="team-member-card-inner">
-                                        <div class="team-member-card-text">
-                                            <header class="team-member-header">
-                                                <h3 class="team-member-name">Vladimir Prosvirkin</h3>
-                                                <div class="team-member-meta"> 
-                                                    <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span> 
-                                                    <span class="team-member-location"> 
-                                                        <span class="location-name location-hong-kong">Moscow, Russian Federation</span> 
-                                                    </span>
-                                                </div>
-                                            </header>
-                                            <div class="team-member-card-content">
-                                                <p>Asset tokenization can give access to the portfolio diversification to crypto traders and boost liquidity of the assets by giving access to the ordinary people.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
                         <!-- End member -->
                         <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">

@@ -71,47 +71,6 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <!-- <div class="col-md-3 mb-20 team-tile">
-                        <div class="team-tile-content">
-                            <div class="member-head">
-                                <img src="template/images/testimonials/vladimir.jpeg">
-                            </div>
-                            <div class="member-content">
-                                <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/vlprosvirkin/" target="_blank">
-                                        <h3 class="team-member-name">Vladimir Prosvirkin</h3>
-                                    </a>
-                                    <div class="team-member-meta">
-                                        <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span>
-                                        <span class="team-member-location">Moscow, Russian Federation</span>
-                                    </div>
-                                </header>
-                                <div class="team-member-bio">
-                                    <p>Asset tokenization can give access to the portfolio diversification to crypto traders and boost liquidity of the assets by giving access to the ordinary people.</p>
-                                </div>
-                                <span class="team-read-more">Read more</span>
-                            </div>
-                            <div class="team-member-card">
-                                <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i>
-                                </button>
-                                <div class="team-member-card-inner">
-                                    <div class="team-member-card-text">
-                                        <header class="team-member-header">
-                                            <h3 class="team-member-name">Vladimir Prosvirkin</h3>
-                                            <div class="team-member-meta">
-                                                <span class="team-member-title">Managing Director at SHORTEX CryptoExchange</span>
-                                                <span class="team-member-location">Moscow, Russian Federation</span>
-                                            </div>
-                                        </header>
-                                        <div class="team-member-card-content">
-                                            <p>Asset tokenization can give access to the portfolio diversification to crypto traders and boost liquidity of the assets by giving access to the ordinary people.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
                     <!-- End member -->
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
@@ -155,51 +114,6 @@
                         </div>
                     </div>
                     <!-- End member -->
-                    <!-- <div class="col-md-3 mb-20 team-tile">
-                        <div class="team-tile-content">
-                            <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
-                            </div>
-                            <div class="member-content">
-                                <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/sung-nam-0375908/" target="_blank">
-                                        <h3 class="team-member-name">Sung Nam</h3>
-                                    </a>
-                                    <div class="team-member-meta">
-                                        <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span>
-                                        <span class="team-member-location">
-                                            <span class="location-name location-hong-kong">Korea</span>
-                                        </span>
-                                    </div>
-                                </header>
-                                <div class="team-member-bio">
-                                    <p>I like the idea.The issue is custodian. Wondering how open institutions will be to a custodian service in Caymans.</p>
-                                </div>
-                                <span class="team-read-more">Read more</span>
-                            </div>
-                            <div class="team-member-card">
-                                <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i>
-                                </button>
-                                <div class="team-member-card-inner">
-                                    <div class="team-member-card-text">
-                                        <header class="team-member-header">
-                                            <h3 class="team-member-name">Sung Nam</h3>
-                                            <div class="team-member-meta">
-                                                <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span>
-                                                <span class="team-member-location">Korea</span>
-                                            </div>
-                                        </header>
-                                        <div class="team-member-card-content">
-                                            <p>I like the idea.The issue is custodian. Wondering how open institutions will be to a custodian service in Caymans.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- End member -->
-
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
@@ -1764,49 +1678,6 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <!-- <div class="col-md-3 mb-20 team-tile">
-                        <div class="team-tile-content">
-                            <div class="member-head">
-                                <img src="template/images/slv-logo.jpg">
-                            </div>
-                            <div class="member-content">
-                                <header class="team-member-header">
-                                    <a href="https://www.linkedin.com/in/jorge-mateo-6a9001173/" target="_blank">
-                                        <h3 class="team-member-name">Jorge Mateo</h3>
-                                    </a>
-                                    <div class="team-member-meta">
-                                        <span class="team-member-title">Project Manager at SpaceTech Profits</span>
-                                        <span class="team-member-location">United Arab Emirates</span>
-                                    </div>
-                                </header>
-                                <div class="team-member-bio">
-                                    <p>Tokenizing silver is a good innovation. I could do some research
-                                        and get back to you with some ideas.</p>
-                                </div>
-                                <span class="team-read-more">Read more</span>
-                            </div>
-                            <div class="team-member-card">
-                                <button class="team-member-card-close no-style">
-                                    <i class="icon alt fa-close"></i>
-                                </button>
-                                <div class="team-member-card-inner">
-                                    <div class="team-member-card-text">
-                                        <header class="team-member-header">
-                                            <h3 class="team-member-name">Jorge Mateo</h3>
-                                            <div class="team-member-meta">
-                                                <span class="team-member-title">Project Manager at SpaceTech Profits</span>
-                                                <span class="team-member-location">United Arab Emirates</span>
-                                            </div>
-                                        </header>
-                                        <div class="team-member-card-content">
-                                            <p>Tokenizing silver is a good innovation. I could do some research
-                                                and get back to you with some ideas.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
                     <!-- End member -->
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
