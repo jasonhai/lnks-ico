@@ -32,7 +32,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/bill-shihara.jpg">
+                                <img src="template/images/bill-shihara-updated.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -604,7 +604,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Hudson-Sutherland.jpeg">
+                                <img src="template/images/Hudson-Sutherland-updated.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -648,7 +648,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Dr.-Fenglian-Xu.jpeg">
+                                <img src="template/images/Dr.-Fenglian-Xu-updated.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -692,7 +692,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Bo-Yang.jpeg">
+                                <img src="template/images/Bo-Yang-updated.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -783,7 +783,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Abraham-Choi.jpeg">
+                                <img src="template/images/Abraham-Choi-updated.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -825,7 +825,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Alberto-Guerrero-Montilla.jpeg">
+                                <img src="template/images/Alberto-Guerrero-Montilla-updated.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -1166,7 +1166,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Prafulla-Vyawahare.jpg">
+                                <img src="template/images/Prafulla-Vyawahare-updated.jpg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">
@@ -2464,7 +2464,7 @@
                     <div class="col-md-3 mb-20 team-tile">
                         <div class="team-tile-content">
                             <div class="member-head">
-                                <img src="template/images/Leandro-Franca-de-Mello.jpeg">
+                                <img src="template/images/Leandro-Franca-de-Mello-updated.jpeg">
                             </div>
                             <div class="member-content">
                                 <header class="team-member-header">

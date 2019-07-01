@@ -153,7 +153,7 @@
                         <div class="col-md-3 mb-20 team-tile">
                             <div class="team-tile-content">
                                 <div class="member-head">
-                                    <img src="template/images/bill-shihara.jpg">
+                                    <img src="template/images/bill-shihara-updated.jpg">
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
