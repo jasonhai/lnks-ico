@@ -24,7 +24,6 @@
                     <small>TEAM</small>
                     <h2>Together, we can do anything !!!<span class="background_heading_2">Together, we can do anything</span></h2>
                     <hr>
-                    <!-- <p class="lead mb-0 pb-0">We waited until we could do it right. Then we did! It's time to grow together.</p> -->
                 </header>
 
                 <div class="row">
@@ -34,7 +33,7 @@
                                 <img src="template/images/brian.jpg">
                             </a>
                             <div class="avatar-member-bio">
-                                <a href="">
+                                <a href="https://www.linkedin.com/in/brian~vo/">
                                     <h2 class="avatar-member-name">Brian Vo</h2>
                                 </a>
                                 <div class="avatar-member-position">
@@ -60,7 +59,7 @@
                                 <img src="template/images/jason.png">
                             </a>
                             <div class="avatar-member-bio">
-                                <a href="">
+                                <a href="https://www.linkedin.com/in/phan-minh-hai-85a34a57/">
                                     <h2 class="avatar-member-name">Jason Hai</h2>
                                 </a>
                                 <div class="avatar-member-position">
@@ -85,7 +84,7 @@
                                 <img src="template/images/daniel.jpg">
                             </a>
                             <div class="avatar-member-bio">
-                                <a href="">
+                                <a href="https://github.com/ethlink">
                                     <h2 class="avatar-member-name">Daniel Mendoza</h2>
                                 </a>
                                 <div class="avatar-member-position">
@@ -110,7 +109,7 @@
                                 <img src="template/images/kalos.jpg">
                             </a>
                             <div class="avatar-member-bio">
-                                <a href="">
+                                <a href="https://github.com/superkarolis">
                                     <h2 class="avatar-member-name">Karolis Ramanauskas</h2>
                                 </a>
                                 <div class="avatar-member-position">
@@ -135,7 +134,7 @@
                                 <img src="template/images/SAMUEL.jpeg">
                             </a>
                             <div class="avatar-member-bio">
-                                <a href="">
+                                <a href="https://www.linkedin.com/in/samuel-mark-reid/">
                                     <h2 class="avatar-member-name">SAMUEL REID</h2>
                                 </a>
                                 <div class="avatar-member-position">
@@ -161,7 +160,7 @@
                                 <img src="template/images/Michael-Anthony.jpg">
                             </a>
                             <div class="avatar-member-bio">
-                                <a href="">
+                                <a href="https://www.linkedin.com/in/map01/">
                                     <h2 class="avatar-member-name">MICHAEL ANTHONY</h2>
                                 </a>
                                 <div class="avatar-member-position">
@@ -178,6 +177,89 @@
                             <p>Michael is an experienced Marketing Manager & Business Development Specialist with a demonstrated history of working in the Blockchain & Financial
                                 services industries. Michael is skilled in Microsoft Office, Data Analysis, Cryptocurrency/Blockchain, and Content Marketing. Michael is a strong
                                 marketing professional and graduated from Villanova University with a Bachelor's Degree in Economics.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <div class="avatar-content pb-20">
+                            <a href="https://www.linkedin.com/in/pavel-bobek-372377169/">
+                                <img src="template/images/pavel-bobek.jpeg">
+                            </a>
+                            <div class="avatar-member-bio">
+                                <a href="https://www.linkedin.com/in/pavel-bobek-372377169/">
+                                    <h2 class="avatar-member-name">PAVEL BOBEK</h2>
+                                </a>
+                                <div class="avatar-member-position">
+                                    SENIOR CORE/BACKEND JAVASCRIPT DEVELOPER
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="avatar-info">
+                            <h2>
+                                Background
+                            </h2>
+                            <p>Pavel is a full-stack web developer with 10 years of industry experience. 
+Pavel is proficient in both frontend and backend web programming languages, and He has implemented applications with the following technologies:
+MEAN/MERN/MVRN Stack (MongoDB, ExpressJS, ReactJS, Angular.js, Vue.js, NodeJs)
+PHP (Laravel, Symfony, CodeIgniter, Yii).</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <div class="avatar-content pb-20">
+                            <a href="https://www.linkedin.com/in/kevinwwright/">
+                                <img src="template/images/kevin-wrigh.jpeg">
+                            </a>
+                            <div class="avatar-member-bio">
+                                <a href="https://www.linkedin.com/in/kevinwwright/">
+                                    <h2 class="avatar-member-name">KEVIN WRIGHT</h2>
+                                </a>
+                                <div class="avatar-member-position">
+                                    PROFESSIONAL BLOCKCHAIN PRODUCT DEVELOPMENT
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="avatar-info">
+                            <h2>
+                                Background
+                            </h2>
+                            <p>Worked the globe in both startups and large scale multinationals, searching for the ultimate business adventures and product development challenges.
+ Currently working remotely, focused on dashboard, IoT, blockchain product development, and WordPress development.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <div class="avatar-content pb-20">
+                            <a href="https://www.linkedin.com/in/arpitvaish/">
+                                <img src="template/images/arpit-vaish.jpeg">
+                            </a>
+                            <div class="avatar-member-bio">
+                                <a href="https://www.linkedin.com/in/arpitvaish/">
+                                    <h2 class="avatar-member-name">ARPIT VAISH</h2>
+                                </a>
+                                <div class="avatar-member-position">
+                                    TECHNICAL ADVISOR
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="avatar-info">
+                            <h2>
+                                Background
+                            </h2>
+                            <p>They are a web development studio located in India. They specialize in web development, cloud computing (office 365, Azure, SharePoint, AWS) and hybrid mobile
+ app development. The team always strive to get an astonishing website to clients around the world.</p>
                         </div>
                     </div>
                 </div>
