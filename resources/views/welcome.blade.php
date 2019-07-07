@@ -9,13 +9,8 @@
 @section('content')
     <!-- Banner -->
         <section id="banner">
-            <div class="content">
-                <header>
-                    <h2>The future has landed</h2>
-                    <p>And there are no hoverboards or flying cars.<br />
-                    Just apps. Lots of mother flipping apps.</p>
-                </header>
-                <a href="https://github.com/slvone" target="_blank"><span class="image"><img src="template/images/pic01.png" alt="" /></span></a>
+            <div class="content content-countdown">
+              <div id="clock" class="qodef-countdown"></div>
             </div>
             <a class="goto-next scrolly">Next</a>
         </section>
@@ -96,7 +91,7 @@
                                     <tr>
                                         <th>Team and Advisors</th>
                                         <td>400,000 <i>(Blocked until Q3 2020)</i></td>
-                                    </tr> 
+                                    </tr>
                                     <tr>
                                         <th>Main-sale <i>(KYC Requirements)</i></th>
                                         <td>6,000,000 <i>(Reserved until Q2 2020)</i></td>
@@ -157,13 +152,13 @@
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
-                                        <a href="https://www.linkedin.com/in/billshihara/" target="_blank"> 
+                                        <a href="https://www.linkedin.com/in/billshihara/" target="_blank">
                                             <h3 class="team-member-name">Bill Shihara</h3>
                                         </a>
-                                        <div class="team-member-meta"> 
-                                            <span class="team-member-title">CEO at Bittrex</span> 
-                                            <span class="team-member-location"> 
-                                                <span class="location-name location-hong-kong">Greater Seattle Area</span> 
+                                        <div class="team-member-meta">
+                                            <span class="team-member-title">CEO at Bittrex</span>
+                                            <span class="team-member-location">
+                                                <span class="location-name location-hong-kong">Greater Seattle Area</span>
                                             </span>
                                         </div>
                                     </header>
@@ -172,18 +167,18 @@
                                     </div>
                                     <span class="team-read-more">Read more</span>
                                 </div>
-                                <div class="team-member-card"> 
+                                <div class="team-member-card">
                                     <button class="team-member-card-close no-style">
-                                        <i class="icon alt fa-close"></i> 
+                                        <i class="icon alt fa-close"></i>
                                     </button>
                                     <div class="team-member-card-inner">
                                         <div class="team-member-card-text">
                                             <header class="team-member-header">
                                                 <h3 class="team-member-name">Bill Shihara</h3>
-                                                <div class="team-member-meta"> 
-                                                    <span class="team-member-title">CEO at Bittrex</span> 
-                                                    <span class="team-member-location"> 
-                                                        <span class="location-name location-hong-kong">Greater Seattle Area</span> 
+                                                <div class="team-member-meta">
+                                                    <span class="team-member-title">CEO at Bittrex</span>
+                                                    <span class="team-member-location">
+                                                        <span class="location-name location-hong-kong">Greater Seattle Area</span>
                                                     </span>
                                                 </div>
                                             </header>
@@ -204,13 +199,13 @@
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
-                                        <a href="https://www.linkedin.com/in/ladybossz/" target="_blank"> 
+                                        <a href="https://www.linkedin.com/in/ladybossz/" target="_blank">
                                             <h3 class="team-member-name">Shy Yeo</h3>
                                         </a>
-                                        <div class="team-member-meta"> 
-                                            <span class="team-member-title">Listing Guide Manager at Bithumb</span> 
-                                            <span class="team-member-location"> 
-                                                <span class="location-name location-hong-kong">Singapore</span> 
+                                        <div class="team-member-meta">
+                                            <span class="team-member-title">Listing Guide Manager at Bithumb</span>
+                                            <span class="team-member-location">
+                                                <span class="location-name location-hong-kong">Singapore</span>
                                             </span>
                                         </div>
                                     </header>
@@ -219,18 +214,18 @@
                                     </div>
                                     <span class="team-read-more">Read more</span>
                                 </div>
-                                <div class="team-member-card"> 
+                                <div class="team-member-card">
                                     <button class="team-member-card-close no-style">
-                                        <i class="icon alt fa-close"></i> 
+                                        <i class="icon alt fa-close"></i>
                                     </button>
                                     <div class="team-member-card-inner">
                                         <div class="team-member-card-text">
                                             <header class="team-member-header">
                                                 <h3 class="team-member-name">Shy Yeo</h3>
-                                                <div class="team-member-meta"> 
-                                                    <span class="team-member-title">Listing Guide Manager at Bithumb</span> 
-                                                    <span class="team-member-location"> 
-                                                        <span class="location-name location-hong-kong">Singapore</span> 
+                                                <div class="team-member-meta">
+                                                    <span class="team-member-title">Listing Guide Manager at Bithumb</span>
+                                                    <span class="team-member-location">
+                                                        <span class="location-name location-hong-kong">Singapore</span>
                                                     </span>
                                                 </div>
                                             </header>
@@ -250,13 +245,13 @@
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
-                                        <a href="https://www.linkedin.com/in/sung-nam-0375908/" target="_blank"> 
+                                        <a href="https://www.linkedin.com/in/sung-nam-0375908/" target="_blank">
                                             <h3 class="team-member-name">Sung Nam </h3>
                                         </a>
-                                        <div class="team-member-meta"> 
-                                            <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span> 
-                                            <span class="team-member-location"> 
-                                                <span class="location-name location-hong-kong">Korea</span> 
+                                        <div class="team-member-meta">
+                                            <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span>
+                                            <span class="team-member-location">
+                                                <span class="location-name location-hong-kong">Korea</span>
                                             </span>
                                         </div>
                                     </header>
@@ -265,18 +260,18 @@
                                     </div>
                                     <span class="team-read-more">Read more</span>
                                 </div>
-                                <div class="team-member-card"> 
+                                <div class="team-member-card">
                                     <button class="team-member-card-close no-style">
-                                        <i class="icon alt fa-close"></i> 
+                                        <i class="icon alt fa-close"></i>
                                     </button>
                                     <div class="team-member-card-inner">
                                         <div class="team-member-card-text">
                                             <header class="team-member-header">
                                                 <h3 class="team-member-name">Sung Nam </h3>
-                                                <div class="team-member-meta"> 
-                                                    <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span> 
-                                                    <span class="team-member-location"> 
-                                                        <span class="location-name location-hong-kong">Korea</span> 
+                                                <div class="team-member-meta">
+                                                    <span class="team-member-title">Senior Manager Global Strategy at Bithumb</span>
+                                                    <span class="team-member-location">
+                                                        <span class="location-name location-hong-kong">Korea</span>
                                                     </span>
                                                 </div>
                                             </header>
@@ -297,13 +292,13 @@
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
-                                        <a href="https://www.linkedin.com/in/yanstavisski/" target="_blank"> 
+                                        <a href="https://www.linkedin.com/in/yanstavisski/" target="_blank">
                                             <h3 class="team-member-name">Yan Stavisski</h3>
                                         </a>
-                                        <div class="team-member-meta"> 
-                                            <span class="team-member-title">US Operation at LATOKEN</span> 
-                                            <span class="team-member-location"> 
-                                                <span class="location-name location-hong-kong">San Francisco Bay Area</span> 
+                                        <div class="team-member-meta">
+                                            <span class="team-member-title">US Operation at LATOKEN</span>
+                                            <span class="team-member-location">
+                                                <span class="location-name location-hong-kong">San Francisco Bay Area</span>
                                             </span>
                                         </div>
                                     </header>
@@ -312,18 +307,18 @@
                                     </div>
                                     <span class="team-read-more">Read more</span>
                                 </div>
-                                <div class="team-member-card"> 
+                                <div class="team-member-card">
                                     <button class="team-member-card-close no-style">
-                                        <i class="icon alt fa-close"></i> 
+                                        <i class="icon alt fa-close"></i>
                                     </button>
                                     <div class="team-member-card-inner">
                                         <div class="team-member-card-text">
                                             <header class="team-member-header">
                                                 <h3 class="team-member-name">Yan Stavisski</h3>
-                                                <div class="team-member-meta"> 
-                                                    <span class="team-member-title">US Operation at LATOKEN</span> 
-                                                    <span class="team-member-location"> 
-                                                        <span class="location-name location-hong-kong">San Francisco Bay Area</span> 
+                                                <div class="team-member-meta">
+                                                    <span class="team-member-title">US Operation at LATOKEN</span>
+                                                    <span class="team-member-location">
+                                                        <span class="location-name location-hong-kong">San Francisco Bay Area</span>
                                                     </span>
                                                 </div>
                                             </header>
@@ -343,13 +338,13 @@
                                 </div>
                                 <div class="member-content">
                                     <header class="team-member-header">
-                                        <a href="https://www.linkedin.com/in/thsun/" target="_blank"> 
+                                        <a href="https://www.linkedin.com/in/thsun/" target="_blank">
                                             <h3 class="team-member-name">Ben Sun </h3>
                                         </a>
-                                        <div class="team-member-meta"> 
-                                            <span class="team-member-title">Community Manager at OKEx</span> 
-                                            <span class="team-member-location"> 
-                                                <span class="location-name location-hong-kong">Taipei City, Taiwan</span> 
+                                        <div class="team-member-meta">
+                                            <span class="team-member-title">Community Manager at OKEx</span>
+                                            <span class="team-member-location">
+                                                <span class="location-name location-hong-kong">Taipei City, Taiwan</span>
                                             </span>
                                         </div>
                                     </header>
@@ -358,18 +353,18 @@
                                     </div>
                                     <span class="team-read-more">Read more</span>
                                 </div>
-                                <div class="team-member-card"> 
+                                <div class="team-member-card">
                                     <button class="team-member-card-close no-style">
-                                        <i class="icon alt fa-close"></i> 
+                                        <i class="icon alt fa-close"></i>
                                     </button>
                                     <div class="team-member-card-inner">
                                         <div class="team-member-card-text">
                                             <header class="team-member-header">
                                                 <h3 class="team-member-name">Ben Sun </h3>
-                                                <div class="team-member-meta"> 
-                                                    <span class="team-member-title">Community Manager at OKEx</span> 
-                                                    <span class="team-member-location"> 
-                                                        <span class="location-name location-hong-kong">Taipei City, Taiwan</span> 
+                                                <div class="team-member-meta">
+                                                    <span class="team-member-title">Community Manager at OKEx</span>
+                                                    <span class="team-member-location">
+                                                        <span class="location-name location-hong-kong">Taipei City, Taiwan</span>
                                                     </span>
                                                 </div>
                                             </header>

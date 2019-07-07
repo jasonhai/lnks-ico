@@ -251,10 +251,10 @@
     	if($($this).closest('.team-tile').hasClass('act')){
     		$($this).closest('.team-tile').removeClass('act');
     	} else {
-    		$($this).closest('.team-tile').addClass('act');	
+    		$($this).closest('.team-tile').addClass('act');
     	}
 	}
-			
+
     // Click toogle membercard info
     $('.team-read-more').on('click', function(e){
     	toggleTeam(this);
@@ -430,4 +430,29 @@
 		}
 	});
 
+	$('#clock').countdown('2019/7/20', function(event) {
+	var $this = $(this).html(event.strftime(''
+	  + '<span class="countdown-row countdown-show5">'
+		+ '<span class="countdown-section">'
+		+	'<span class="countdown-amount">%w</span>'
+		+	'<span class="countdown-period">Weeks</span>'
+		+ '</span>'
+		+ '<span class="countdown-section">'
+		+	'<span class="countdown-amount">%d</span>'
+		+	'<span class="countdown-period">Days</span>'
+		+ '</span>'
+		+ '<span class="countdown-section">'
+		+	'<span class="countdown-amount">%H</span>'
+		+	'<span class="countdown-period">Hours</span>'
+		+ '</span>'
+		+ '<span class="countdown-section">'
+		+	'<span class="countdown-amount">%M</span>'
+		+	'<span class="countdown-period">Minutes</span>'
+		+ '</span>'
+		+ '<span class="countdown-section">'
+		+	'<span class="countdown-amount">%S</span>'
+		+	'<span class="countdown-period">Seconds</span>'
+		+ '</span>'
+	  + '</span>'));
+	});
 })(jQuery);

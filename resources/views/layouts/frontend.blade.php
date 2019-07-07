@@ -31,6 +31,7 @@
         <script src="template/assets/js/breakpoints.min.js"></script>
         <script src="template/assets/js/util.js"></script>
         <script src="template/assets/js/lity.js"></script>
+        <script src="template/assets/js/jquery.countdown.min.js"></script>
         <script src="template/assets/js/main.js"></script>
         <script src="template/assets/js/token.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
