@@ -10,6 +10,7 @@
     <!-- Banner -->
         <section id="banner">
             <div class="content content-countdown">
+              <h2 class="comming-soon">Comming soon</h2>
               <div id="clock" class="qodef-countdown"></div>
             </div>
             <a class="goto-next scrolly">Next</a>
