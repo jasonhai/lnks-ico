@@ -1253,6 +1253,14 @@ footer .nav-link {
 .info-progress {
   text-align: right;
   color: #fff;
+  position: relative;
+}
+
+.info-progress .info-progress-left {
+  position: absolute;
+  top: 0;
+  margin-top: 0;
+  text-align: left;
 }
 
 .info-progress > div {
