@@ -10,7 +10,7 @@
     <section id="banner">
         <div class="content">
             <header>
-                <h2><span style="text-transform: uppercase; color: #fff">Development Roadmap</span><br>The Silverlink Network</h2>
+                <h2><span style="text-transform: uppercase; color: #fff">Development Roadmap</span><br>The Silverlink Network Vision</h2>
             </header>
         </div>
         <a class="goto-next scrolly">Next</a>
