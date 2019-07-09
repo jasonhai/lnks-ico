@@ -12,6 +12,14 @@
             <div class="content content-countdown">
               <h2 class="comming-soon">Pre-sale <br>From July 10th 2019 to August 25th 2019</h2>
               <div id="clock" class="qodef-countdown"></div>
+              <div class="progress-custom">
+                <div class="info-progress">
+                  <div>50,000,000 ETH<br>Soft Cap</div>
+                </div>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75%" aria-valuemin="0" aria-valuemax="100" style="width: 75%">75%</div>
+                </div>
+              </div>
             </div>
             <a class="goto-next scrolly">Next</a>
         </section>

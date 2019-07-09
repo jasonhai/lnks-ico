@@ -1242,3 +1242,28 @@ footer .nav-link {
     position: relative;
     font-size: 2.5em;
 }
+
+/* Progress homepage */
+.progress-custom {
+  max-width: 900px;
+  text-align: center;
+  margin: auto;
+}
+
+.info-progress {
+  text-align: right;
+  color: #fff;
+}
+
+.info-progress > div {
+  color: #fff;
+  font-size: 12px;
+  line-height: 12px;
+  margin-top: 20px;
+}
+
+.progress-custom .progress {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
