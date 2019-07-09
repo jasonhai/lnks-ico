@@ -431,28 +431,25 @@
 	});
 
 	$('#clock').countdown('2019/08/25', function(event) {
-	var $this = $(this).html(event.strftime(''
-	  + '<span class="countdown-row countdown-show5">'
-	    + '<span class="countdown-section">'
-		+	'<span class="countdown-amount">%w</span>'
-		+	'<span class="countdown-period">Weeks</span>'
-		+ '</span>'
-		+ '<span class="countdown-section">'
-		+	'<span class="countdown-amount">%d</span>'
-		+	'<span class="countdown-period">Days</span>'
-		+ '</span>'
-		+ '<span class="countdown-section">'
-		+	'<span class="countdown-amount">%H</span>'
-		+	'<span class="countdown-period">Hours</span>'
-		+ '</span>'
-		+ '<span class="countdown-section">'
-		+	'<span class="countdown-amount">%M</span>'
-		+	'<span class="countdown-period">Minutes</span>'
-		+ '</span>'
-		+ '<span class="countdown-section">'
-		+	'<span class="countdown-amount">%S</span>'
-		+	'<span class="countdown-period">Seconds</span>'
-		+ '</span>'
-	  + '</span>'));
+		// var totalHours = event.offset.totalDays * 24 + event.offset.hours;
+		var $this = $(this).html(event.strftime(''
+		  + '<span class="countdown-row countdown-show5">'
+			+ '<span class="countdown-section">'
+			+	'<span class="countdown-amount">'+event.offset.totalDays+'</span>'
+			+	'<span class="countdown-period">Days</span>'
+			+ '</span>'
+			+ '<span class="countdown-section">'
+			+	'<span class="countdown-amount">%H</span>'
+			+	'<span class="countdown-period">Hours</span>'
+			+ '</span>'
+			+ '<span class="countdown-section">'
+			+	'<span class="countdown-amount">%M</span>'
+			+	'<span class="countdown-period">Minutes</span>'
+			+ '</span>'
+			+ '<span class="countdown-section">'
+			+	'<span class="countdown-amount">%S</span>'
+			+	'<span class="countdown-period">Seconds</span>'
+			+ '</span>'
+		  + '</span>'));
 	});
 })(jQuery);
