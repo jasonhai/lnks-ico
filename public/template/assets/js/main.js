@@ -430,7 +430,7 @@
 		}
 	});
 
-	$('#clock').countdown('2019/07/10', function(event) {
+	$('#clock').countdown('2019/08/25', function(event) {
 	var $this = $(this).html(event.strftime(''
 	  + '<span class="countdown-row countdown-show5">'
 		+ '<span class="countdown-section">'
