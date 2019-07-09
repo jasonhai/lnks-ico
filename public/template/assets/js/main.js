@@ -430,9 +430,13 @@
 		}
 	});
 
-	$('#clock').countdown('2019/8/25', function(event) {
+	$('#clock').countdown('2019/08/25', function(event) {
 	var $this = $(this).html(event.strftime(''
 	  + '<span class="countdown-row countdown-show5">'
+	    + '<span class="countdown-section">'
+		+	'<span class="countdown-amount">%w</span>'
+		+	'<span class="countdown-period">Weeks</span>'
+		+ '</span>'
 		+ '<span class="countdown-section">'
 		+	'<span class="countdown-amount">%d</span>'
 		+	'<span class="countdown-period">Days</span>'
