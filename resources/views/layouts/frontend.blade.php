@@ -12,6 +12,17 @@
         <link rel="stylesheet" href="template/assets/css/lity.css" />
         <noscript><link rel="stylesheet" href="template/assets/css/noscript.css" /></noscript>
         @toastr_css
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143780177-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-143780177-1');
+        </script>
+
     </head>
     <body class="landing">
         <div id="page-wrapper">
