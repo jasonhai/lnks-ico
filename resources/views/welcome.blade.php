@@ -14,11 +14,11 @@
               <div id="clock" class="qodef-countdown"></div>
               <div class="progress-custom">
                 <div class="info-progress">
-                  <div class="info-progress-left">5273.26 ETH<br>We Raised</div>
+                  <div class="info-progress-left">7817.46 ETH<br>We Raised</div>
                   <div>10,000.00 ETH<br>Hard Cap</div>
                 </div>
                 <div class="progress">
-                  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="52.73%" aria-valuemin="0" aria-valuemax="100" style="width: 52.73%">52.73%</div>
+                  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="78.17%" aria-valuemin="0" aria-valuemax="100" style="width: 78.17%">78.17%</div>
                 </div>
               </div>
             </div>
