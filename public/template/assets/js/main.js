@@ -430,7 +430,7 @@
 		}
 	});
 
-	$('#clock').countdown('2019/08/25', function(event) {
+	$('#clock').countdown('2019/09/10', function(event) {
 		// var totalHours = event.offset.totalDays * 24 + event.offset.hours;
 		var $this = $(this).html(event.strftime(''
 		  + '<span class="countdown-row countdown-show5">'
