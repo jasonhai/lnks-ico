@@ -68,6 +68,10 @@
                             <td><a href="https://forkdelta.app/#!/trade/0xdD2634908c54139964e316B6953818b043120b63-ETH" target="_blank">https://forkdelta.app/#!/trade/0xdD2634908c54139964e316B6953818b043120b63-ETH</a></td>
                         </tr>
                         <tr>
+                            <th>SwitchDex</th>
+                            <td><a href="https://switchdex.ag/#SLV-ETH" target="_blank">https://switchdex.ag/#SLV-ETH</a></td>
+                        </tr>
+                        <tr>
                             <th colspan="2" style="font-weight: bold;">SLV will be listed on big exchanges soon</th>
                         </tr>
                     </tbody>
